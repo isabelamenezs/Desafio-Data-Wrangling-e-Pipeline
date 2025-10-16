@@ -16,7 +16,7 @@ print("Banco de dados criado com sucesso!")
 --Desafio Extra:
 ---Criar uma segunda tabela tb_clientes contendo apenas clientes únicos. (Alana)
 
-tabela_vendas = sqlite3.connect("vendas.db")
+conexao = sqlite3.connect("vendas.db")
 df_clientes = df_vendas[["cliente"]].drop_duplicates().reset_index(drop=True)
-df_clientes.to_sql("tb_clientes", tabela_vendas, if_exists="replace", index=False)
-tabela_vendas.close()
+df_clientes.to_sql("tb_clientes", conexao, if_exists="replace", index=False)
+conexao.close()

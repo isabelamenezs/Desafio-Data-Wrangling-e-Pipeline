@@ -13,6 +13,9 @@ print("Número de linhas:"+str(contLinha))
 
 ---3.	Descubra o tipo de dados (dtype) de cada coluna. (alana)
 
+tipo_colunas = dataframe.dtypes
+print(tipo_colunas)
+
 ---4.	Conte os valores ausentes existentes em cada coluna. (ana)
 
 

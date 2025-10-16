@@ -1,8 +1,8 @@
---2. Transformação (T)
+# 2. Transformação (T)
 
----Padronizar a coluna de data para o formato YYYY-MM-DD. (Alessa)
+# Padronizar a coluna de data (YYYY-MM-DD). (Alessa)
 
----Substituir valores nulos por "Não informado". (Dani)
+# Substituir valores nulos por "Não informado". (Dani)
 
 import pandas as pd
 
@@ -12,7 +12,17 @@ newDataframe = dataframe.fillna('Não Informado')
 
 print(newDataframe.to_string())
 
----Corrigir a quantidade para ser sempre um número inteiro. (Vitoria)
+# Corrigir quantidade para ser sempre um número inteiro. (Vitória)
 
----Remover ou corrigir preços negativos. (Nicoli)
+dataframe['quantidade'].unique()
+
+dataframe['quantidade'] = dataframe['quantidade'].replace('três', '3')
+
+dataframe['quantidade'] = pd.to_numeric(dataframe['quantidade'])
+dataframe.dtypes
+
+# Remover ou corrigir preços negativos. (Nicoli)
+
+
+# Criar uma nova coluna valor_total = quantidade * preco_unitario. ()
 

@@ -4,7 +4,7 @@
 ---Criar um banco SQLite (arquivo vendas.db). (Dani)
 
 import sqlite3 as sql
-conexao = sql.connect('vendas_raw.db')
+conexao = sql.connect('vendas.db')
 print("Banco de dados criado com sucesso!")
 
 

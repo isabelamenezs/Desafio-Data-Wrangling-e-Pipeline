@@ -1,6 +1,11 @@
 # 2. Transformação (T)
 
 # Padronizar a coluna de data (YYYY-MM-DD). (Alessa)
+# Padronizar coluna de data
+df['data'] = pd.to_datetime(df['data'], errors='coerce').dt.strftime('%Y-%m-%d')
+
+# Verificar o resultado
+print(df['data'].head())
 
 # Substituir valores nulos por "Não informado". (Dani)
 

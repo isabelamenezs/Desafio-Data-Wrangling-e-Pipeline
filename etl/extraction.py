@@ -26,5 +26,16 @@ print(tipo_colunas)
 ---1.	Filtre apenas as linhas onde o preço unitário é maior que 100. (Isabela)
 
 ---2.	Ordene o dataset pelo valor do preço em ordem decrescente. (Amanda) (Alessa)
+import pandas as pd
+
+# Leitura do dataset
+df = pd.read_csv('2lBCPRISD6UzKRFg5VZ1_vendas (3).csv')
+
+# Ordenar pelo preço unitário em ordem decrescente
+df_ordenado = df.sort_values(by='preco_unitario', ascending=False)
+
+# Exibir as 5 primeiras linhas para verificação
+print(df_ordenado.head())
+
 
 

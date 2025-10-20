@@ -25,7 +25,7 @@ print(tipo_colunas)
 
 #1.	Filtre apenas as linhas onde o preço unitário é maior que 100. (Isabela)
 
-preco_maior_que_100 = df['preco_unitario'] > 100
+preco_maior_que_100 = dataframe['preco_unitario'] > 100
 print(dataframe[preco_maior_que_100])
 
 #2.	Ordene o dataset pelo valor do preço em ordem decrescente. (Amanda) (Alessa)

@@ -26,8 +26,10 @@ dataframe['quantidade'] = dataframe['quantidade'].replace('três', '3')
 dataframe['quantidade'] = pd.to_numeric(dataframe['quantidade'])
 dataframe.dtypes
 
-# Remover ou corrigir preços negativos. (Nicoli)
+# Remover ou corrigir preços negativos.
+if 'preco_unitario' in dataframe.columns:
+    dataframe = dataframe[dataframe['preco_unitario'] >= 0]
 
-
-# Criar uma nova coluna valor_total = quantidade * preco_unitario. ()
-
+# Criar uma nova coluna valor_total = quantidade * preco_unitario.
+if 'quantidade' in df.columns and 'preco_unitario' in dataframe.columns:
+  dataframe['valor_total'] = dataframe['quantidade'] * dataframe['preco_unitario']

@@ -4,7 +4,7 @@ from etl.load import load_data
 
 def run_pipeline():
     # Caminhos
-    input_path = 'data/raw/vendas.csv'
+    input_path = 'dados/vendas_raw.csv'
     output_path = ''
 
     # Etapas ETL

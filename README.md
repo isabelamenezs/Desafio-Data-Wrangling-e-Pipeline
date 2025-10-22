@@ -2,46 +2,46 @@
 
 Este projeto foi desenvolvido como parte do Bootcamp de Business Intelligence (2025) e tem como objetivo criar um pipeline de dados em Python para tratar e carregar um conjunto de dados de vendas online em um banco SQLite.
 
-Objetivo do Projeto
+**Objetivo do Projeto**
 
 A proposta é automatizar o processo ETL (Extração, Transformação e Carga) de um dataset bruto contendo inconsistências, aplicando técnicas de data wrangling e boas práticas de organização de código.
 
-Funcionalidades Implementadas
-🔹 1. Extração (extracao.py)
+**Funcionalidades Implementadas**
+🔹 1. Extração (extraction.py)
 
-Leitura do arquivo CSV bruto.
+- Leitura do arquivo CSV bruto.
 
-Visualização inicial dos dados (head, tipos de colunas, valores nulos).
+- Visualização inicial dos dados (head, tipos de colunas, valores nulos).
 
-Retorno de um DataFrame para as próximas etapas.
+- Retorno de um DataFrame para as próximas etapas.
 
-🔹 2. Transformação (transformacao.py)
+🔹 2. Transformação (transform.py)
 
-Padronização da coluna de data no formato YYYY-MM-DD.
+- Padronização da coluna de data no formato YYYY-MM-DD.
 
-Substituição de valores nulos por "Não informado".
+- Substituição de valores nulos por "Não informado".
 
-Conversão de quantidades textuais para inteiros.
+- Conversão de quantidades textuais para inteiros.
 
-Correção de preços negativos.
+- Correção de preços negativos.
 
-Criação da coluna valor_total = quantidade * preco_unitario.
+- Criação da coluna valor_total = quantidade * preco_unitario.
 
-🔹 3. Carga (carga.py)
+🔹 3. Carga (load.py)
 
-Criação de um banco de dados SQLite (vendas.db).
+- Criação de um banco de dados SQLite (vendas.db).
 
-Inserção dos dados tratados na tabela tb_vendas.
+- Inserção dos dados tratados na tabela tb_vendas.
 
 🔹 4. Pipeline Principal (pipeline.py)
 
-Importa as funções dos arquivos anteriores.
+- Importa as funções dos arquivos anteriores.
 
-Executa as etapas E → T → L de forma sequencial.
+- Executa as etapas E → T → L de forma sequencial.
 
-Garante o fluxo automatizado de dados do CSV até o banco.
+- Garante o fluxo automatizado de dados do CSV até o banco.
 
-🧩 Tecnologias Utilizadas
+**Tecnologias Utilizadas**
 
 Python 3.12+
 
@@ -51,7 +51,7 @@ SQLite3 (ou SQLAlchemy)
 
 Jupyter / VS Code / Google Colab (para testes e desenvolvimento)
 
-Como Executar o Projeto
+**Como Executar o Projeto**
 1. Clone o repositório:
 git clone https://github.com/isabelamenezs/Desafio-Data-Wrangling-e-Pipeline
 cd <Desafio-Data-Wrangling-e-Pipeline>

@@ -55,6 +55,7 @@ Jupyter / VS Code / Google Colab (para testes e desenvolvimento)
 **Como Executar o Projeto**
 1. Clone o repositório:
 git clone https://github.com/isabelamenezs/Desafio-Data-Wrangling-e-Pipeline
+
 cd <Desafio-Data-Wrangling-e-Pipeline>
 
 2. Instale as dependências:

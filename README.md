@@ -1,4 +1,6 @@
-**Desafio Data Wrangling & Pipeline de Dados**
+## Desafio Data Wrangling & Pipeline de Dados**
+
+### Integrantes : Isabela Carneiro, Ana Beatriz Faria, Alana Sampaio, Danielle Bezerra, Alessa Coelho, Nicoli Belem e Vitória Cássia
 
 Este projeto foi desenvolvido como parte do Bootcamp de Business Intelligence (2025) e tem como objetivo criar um pipeline de dados em Python para tratar e carregar um conjunto de dados de vendas online em um banco SQLite.
 

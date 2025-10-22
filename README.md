@@ -1,4 +1,4 @@
-## Desafio Data Wrangling & Pipeline de Dados**
+## Desafio Data Wrangling & Pipeline de Dados
 
 ### Integrantes : Isabela Carneiro, Ana Beatriz Faria, Alana Sampaio, Danielle Bezerra, Alessa Coelho, Nicoli Belem e Vitória Cássia
 

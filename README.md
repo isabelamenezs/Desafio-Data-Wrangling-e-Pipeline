@@ -7,7 +7,8 @@ Este projeto foi desenvolvido como parte do Bootcamp de Business Intelligence (2
 A proposta é automatizar o processo ETL (Extração, Transformação e Carga) de um dataset bruto contendo inconsistências, aplicando técnicas de data wrangling e boas práticas de organização de código.
 
 **Funcionalidades Implementadas**
-🔹 1. Extração (extraction.py)
+
+🔹1. Extração (extraction.py)
 
 - Leitura do arquivo CSV bruto.
 

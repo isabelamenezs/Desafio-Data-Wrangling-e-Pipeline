@@ -16,12 +16,13 @@ def explore_data(filepath):
   print(tipo_colunas)
 
   #4.	Conte os valores ausentes existentes em cada coluna.
-
-
-
+  valores_ausentes = dataframe.isnull().sum()
+  
+  # Exibir o resultado
+  print("Valores ausentes por coluna:\n")
+  print(valores_ausentes)
 
   #2. Seleção e Filtragem de Dados
-
   #1.	Filtre apenas as linhas onde o preço unitário é maior que 100.
   preco_maior_que_100 = dataframe['preco_unitario'] > 100
   print(dataframe[preco_maior_que_100])

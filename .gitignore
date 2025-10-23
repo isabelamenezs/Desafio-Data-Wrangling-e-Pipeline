@@ -1,0 +1,20 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Banco de dados SQLite
+vendas.db
+
+# Relatório
+relatorio_banco_de_dados.txt
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db

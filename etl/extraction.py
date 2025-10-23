@@ -33,5 +33,5 @@ def explore_data(filepath):
   # Exibir as 5 primeiras linhas para verificação
   print(df_ordenado.head(5))
 
-return dataframe
+  return dataframe
 

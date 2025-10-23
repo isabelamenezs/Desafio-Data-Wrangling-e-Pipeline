@@ -4,7 +4,7 @@ def transform_data(dataframe):
 
     print("-----------------TRANSFORMAÇÃO-------------------\n")
 
-    # Padronizar a coluna de data (YYYY-MM-DD). (Alessa)
+    # Padronizar a coluna de data (YYYY-MM-DD).
     dataframe['data_venda'] = (
         dataframe['data_venda']
         .astype(str)
@@ -22,7 +22,7 @@ def transform_data(dataframe):
     print("\n\n")
 
 
-    # Substituir valores nulos por "Não informado". (Dani)
+    # Substituir valores nulos por "Não informado".
     dataframe = dataframe.fillna('Não Informado')
     dataframe['quantidade'] = dataframe['quantidade'].replace('três', '3')
     dataframe['quantidade'] = pd.to_numeric(dataframe['quantidade'])
@@ -33,12 +33,12 @@ def transform_data(dataframe):
     print("\n\n")
 
 
-    # Remover ou corrigir preços negativos. (Nicoli)
+    # Remover ou corrigir preços negativos.
     if 'preco_unitario' in dataframe.columns:
         dataframe = dataframe[dataframe['preco_unitario'] >= 0]
 
 
-    # Criar uma nova coluna valor_total = quantidade * preco_unitario. (Nicoli)
+    # Criar uma nova coluna valor_total = quantidade * preco_unitario.
     if 'quantidade' in dataframe.columns and 'preco_unitario' in dataframe.columns:
         dataframe['valor_total'] = dataframe['quantidade'] * dataframe['preco_unitario']
 

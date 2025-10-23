@@ -1,1 +1,2001 @@
-
+id_venda,data_venda,cliente,produto,quantidade,preco_unitario,categoria
+1,2025/06/01,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+2,2025-05-02,João Souza,Caderno,1,25.0,Papelaria
+3,04-04-2025,Maria Silva,Notebook Dell,2,3500.0,Eletrônicos
+4,21-06-2025,Fernanda Lima,Caderno,1,25.0,Papelaria
+5,15-09-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+6,22-01-2025,Fernanda Lima,Caderno,5,25.0,Papelaria
+7,2025/05/22,Fernanda Lima,Caneta Azul,3,2.5,Papelaria
+8,2025/01/22,Pedro Costa,Mochila,1,150.0,Acessórios
+9,07-09-2025,Maria Silva,Luminária,1,60.0,Utilidades
+10,2025-02-03,Pedro Costa,Notebook Dell,2,3500.0,Eletrônicos
+11,2025/12/27,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+12,20-05-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+13,2025/02/18,,Monitor LG,5,-1200.0,Eletrônicos
+14,2025-12-03,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+15,2025-02-23,Maria Silva,Luminária,4,-60.0,Utilidades
+16,2025/01/21,Ana Pereira,Luminária,1,60.0,Utilidades
+17,2025-11-05,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+18,2025-02-12,Maria Silva,Caneta Azul,2,2.5,Papelaria
+19,2025-08-03,Fernanda Lima,Luminária,2,60.0,Utilidades
+20,26-09-2025,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+21,2025/09/24,Maria Silva,Monitor LG,2,1200.0,
+22,2025/03/01,Ana Pereira,Luminária,2,60.0,Utilidades
+23,2025/10/11,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+24,2025-04-15,Maria Silva,Luminária,4,60.0,Utilidades
+25,2025-07-23,Pedro Costa,iPhone 13,3,5500.0,Eletrônicos
+26,2025-06-07,,iPhone 13,4,5500.0,Eletrônicos
+27,08-05-2025,Maria Silva,Caneta Azul,4,2.5,Papelaria
+28,2025-07-01,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+29,20-04-2025,,Caderno,4,25.0,Papelaria
+30,2025/10/06,,Garrafa Térmica,3,80.0,Utilidades
+31,15-02-2025,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+32,2025-07-12,Maria Silva,Caderno,2,25.0,Papelaria
+33,16-05-2025,João Souza,Impressora HP,4,900.0,Eletrônicos
+34,2025/11/14,Pedro Costa,Luminária,3,60.0,Utilidades
+35,2025/03/22,Fernanda Lima,Mochila,3,150.0,Acessórios
+36,2025/02/03,Pedro Costa,Luminária,1,60.0,Utilidades
+37,2025/04/07,,iPhone 13,1,5500.0,Eletrônicos
+38,06-06-2025,Maria Silva,Monitor LG,1,1200.0,Eletrônicos
+39,24-01-2025,Pedro Costa,Caneta Azul,4,2.5,Papelaria
+40,2025-10-05,João Souza,Mochila,1,150.0,Acessórios
+41,24-08-2025,,iPhone 13,2,5500.0,Eletrônicos
+42,2025/05/02,Fernanda Lima,Mochila,2,150.0,Acessórios
+43,2025-06-09,Fernanda Lima,Monitor LG,2,1200.0,Eletrônicos
+44,2025-02-18,Maria Silva,iPhone 13,5,5500.0,Eletrônicos
+45,06-01-2025,,Garrafa Térmica,5,80.0,Utilidades
+46,2025-02-03,Fernanda Lima,Caderno,2,-25.0,Papelaria
+47,2025-09-09,Fernanda Lima,Caderno,1,25.0,Papelaria
+48,20-05-2025,,Caderno,5,25.0,Papelaria
+49,13-03-2025,Pedro Costa,Notebook Dell,5,-3500.0,Eletrônicos
+50,2025/04/01,Ana Pereira,iPhone 13,três,5500.0,Eletrônicos
+51,2025-10-13,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+52,27-08-2025,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+53,2025/04/26,,Mouse Gamer,três,200.0,Eletrônicos
+54,21-05-2025,João Souza,Notebook Dell,3,3500.0,
+55,02-07-2025,Fernanda Lima,Monitor LG,3,1200.0,Eletrônicos
+56,2025-11-19,João Souza,Monitor LG,4,1200.0,Eletrônicos
+57,2025/07/13,Pedro Costa,Luminária,1,60.0,Utilidades
+58,2025/10/02,Pedro Costa,Caneta Azul,5,2.5,Papelaria
+59,21-07-2025,Pedro Costa,Caneta Azul,4,2.5,Papelaria
+60,2025/12/19,,Mochila,1,150.0,Acessórios
+61,2025/01/07,,Mouse Gamer,3,200.0,Eletrônicos
+62,19-01-2025,Ana Pereira,Mouse Gamer,3,200.0,Eletrônicos
+63,18-07-2025,Fernanda Lima,Mouse Gamer,2,200.0,Eletrônicos
+64,2025/07/11,João Souza,Impressora HP,1,900.0,Eletrônicos
+65,2025-07-05,João Souza,Impressora HP,2,900.0,
+66,2025/06/04,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+67,2025-11-04,João Souza,iPhone 13,3,5500.0,Eletrônicos
+68,2025/06/27,Pedro Costa,Impressora HP,3,900.0,Eletrônicos
+69,2025/10/03,Fernanda Lima,Notebook Dell,2,3500.0,Eletrônicos
+70,20-09-2025,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+71,2025/09/08,Ana Pereira,Caneta Azul,1,2.5,Papelaria
+72,10-10-2025,João Souza,Mochila,3,150.0,Acessórios
+73,26-01-2025,João Souza,Impressora HP,5,900.0,Eletrônicos
+74,2025-07-05,,Impressora HP,1,900.0,Eletrônicos
+75,2025/04/09,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+76,2025/08/01,João Souza,Caneta Azul,3,2.5,Papelaria
+77,2025-06-17,Ana Pereira,Caneta Azul,1,2.5,Papelaria
+78,2025/05/19,Pedro Costa,Mouse Gamer,5,200.0,Eletrônicos
+79,2025-10-08,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+80,06-03-2025,João Souza,Caderno,4,25.0,Papelaria
+81,2025-05-25,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+82,2025/01/10,,Impressora HP,2,900.0,Eletrônicos
+83,2025-01-26,Maria Silva,Mouse Gamer,três,200.0,Eletrônicos
+84,2025/03/06,Maria Silva,Mochila,2,150.0,Acessórios
+85,15-04-2025,Ana Pereira,Notebook Dell,3,-3500.0,Eletrônicos
+86,2025/12/14,,Mouse Gamer,3,200.0,Eletrônicos
+87,2025/10/14,Maria Silva,Mochila,4,150.0,Acessórios
+88,2025-07-12,,Garrafa Térmica,3,80.0,Utilidades
+89,26-11-2025,Ana Pereira,iPhone 13,5,5500.0,Eletrônicos
+90,22-08-2025,,Luminária,4,60.0,Utilidades
+91,2025/12/13,Maria Silva,Caderno,4,25.0,Papelaria
+92,2025/06/15,,iPhone 13,5,5500.0,Eletrônicos
+93,28-12-2025,Fernanda Lima,Luminária,1,60.0,Utilidades
+94,2025/08/22,João Souza,Notebook Dell,1,3500.0,Eletrônicos
+95,11-11-2025,,iPhone 13,2,5500.0,Eletrônicos
+96,22-03-2025,João Souza,Caneta Azul,2,2.5,Papelaria
+97,13-02-2025,João Souza,Monitor LG,3,1200.0,Eletrônicos
+98,2025/09/08,João Souza,Caderno,5,25.0,Papelaria
+99,2025/07/05,Pedro Costa,Impressora HP,3,900.0,Eletrônicos
+100,2025-04-17,João Souza,Caneta Azul,4,2.5,Papelaria
+101,15-03-2025,Pedro Costa,Impressora HP,3,900.0,Eletrônicos
+102,22-04-2025,Ana Pereira,iPhone 13,5,5500.0,
+103,28-08-2025,Ana Pereira,Notebook Dell,2,3500.0,Eletrônicos
+104,2025-06-22,Ana Pereira,Mouse Gamer,2,200.0,Eletrônicos
+105,2025-07-07,,iPhone 13,4,5500.0,Eletrônicos
+106,16-05-2025,,Caderno,3,25.0,Papelaria
+107,04-12-2025,,Monitor LG,3,1200.0,Eletrônicos
+108,2025/08/06,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+109,05-05-2025,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+110,22-11-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+111,2025-09-10,João Souza,Impressora HP,4,900.0,Eletrônicos
+112,2025/05/16,,Notebook Dell,3,3500.0,Eletrônicos
+113,2025-06-18,João Souza,Mouse Gamer,2,200.0,Eletrônicos
+114,04-07-2025,,Garrafa Térmica,4,80.0,Utilidades
+115,2025/05/21,João Souza,Luminária,1,60.0,Utilidades
+116,2025-07-18,,Mouse Gamer,4,200.0,Eletrônicos
+117,2025-10-17,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+118,2025-01-17,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+119,18-07-2025,Maria Silva,Monitor LG,5,1200.0,Eletrônicos
+120,21-05-2025,,Luminária,4,60.0,Utilidades
+121,07-07-2025,,Luminária,2,60.0,Utilidades
+122,2025/11/18,Fernanda Lima,Monitor LG,1,1200.0,Eletrônicos
+123,2025/08/27,Fernanda Lima,Garrafa Térmica,4,-80.0,Utilidades
+124,2025/09/15,João Souza,Mochila,3,150.0,Acessórios
+125,2025-04-08,,Impressora HP,1,900.0,Eletrônicos
+126,2025-09-06,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+127,2025-08-06,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+128,2025-01-13,,Luminária,4,60.0,Utilidades
+129,19-03-2025,Maria Silva,Notebook Dell,3,3500.0,Eletrônicos
+130,2025/11/17,João Souza,Luminária,4,60.0,Utilidades
+131,2025-06-13,Fernanda Lima,iPhone 13,3,5500.0,Eletrônicos
+132,26-04-2025,Pedro Costa,Notebook Dell,1,-3500.0,Eletrônicos
+133,2025/02/11,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+134,2025/10/05,João Souza,Luminária,5,60.0,Utilidades
+135,2025/12/07,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+136,06-03-2025,Maria Silva,Notebook Dell,4,3500.0,Eletrônicos
+137,2025-03-09,,Mouse Gamer,1,200.0,Eletrônicos
+138,2025-12-18,Pedro Costa,Caderno,3,25.0,Papelaria
+139,2025-01-20,Maria Silva,Notebook Dell,4,3500.0,Eletrônicos
+140,2025/11/01,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+141,2025-01-04,Pedro Costa,Luminária,3,60.0,Utilidades
+142,2025/01/13,Maria Silva,iPhone 13,2,5500.0,Eletrônicos
+143,2025-02-27,Ana Pereira,Notebook Dell,2,3500.0,Eletrônicos
+144,19-10-2025,Maria Silva,Caneta Azul,2,2.5,Papelaria
+145,02-02-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+146,2025-11-21,,Mochila,3,150.0,Acessórios
+147,10-01-2025,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+148,2025/12/28,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+149,21-01-2025,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+150,02-02-2025,,Monitor LG,4,1200.0,Eletrônicos
+151,2025/02/16,Ana Pereira,Monitor LG,3,1200.0,Eletrônicos
+152,2025-07-28,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+153,2025/08/19,João Souza,Luminária,5,60.0,Utilidades
+154,26-11-2025,João Souza,Mochila,5,150.0,Acessórios
+155,2025/04/27,João Souza,Luminária,2,60.0,Utilidades
+156,12-10-2025,Pedro Costa,Monitor LG,2,1200.0,
+157,23-10-2025,,Mouse Gamer,5,200.0,Eletrônicos
+158,2025-06-25,João Souza,Notebook Dell,2,3500.0,Eletrônicos
+159,2025-05-27,Fernanda Lima,Caneta Azul,2,2.5,Papelaria
+160,2025-04-07,Fernanda Lima,iPhone 13,1,5500.0,Eletrônicos
+161,2025/11/23,Pedro Costa,Caderno,4,25.0,Papelaria
+162,2025/12/28,Maria Silva,Garrafa Térmica,4,80.0,Utilidades
+163,2025-12-10,,Mochila,1,150.0,Acessórios
+164,25-04-2025,Ana Pereira,Mochila,2,150.0,Acessórios
+165,07-08-2025,Maria Silva,Luminária,1,60.0,Utilidades
+166,2025/01/22,Fernanda Lima,iPhone 13,4,5500.0,Eletrônicos
+167,2025/01/27,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+168,2025/01/12,,Caneta Azul,3,2.5,Papelaria
+169,2025-02-08,Maria Silva,iPhone 13,2,5500.0,Eletrônicos
+170,2025/10/22,Fernanda Lima,Mochila,4,150.0,Acessórios
+171,2025/06/10,,Luminária,5,60.0,Utilidades
+172,05-09-2025,João Souza,Caderno,1,25.0,Papelaria
+173,05-10-2025,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+174,13-05-2025,Fernanda Lima,Caneta Azul,3,2.5,Papelaria
+175,2025-11-18,Pedro Costa,Mouse Gamer,4,200.0,Eletrônicos
+176,12-11-2025,Fernanda Lima,Caneta Azul,5,2.5,Papelaria
+177,2025/12/03,Fernanda Lima,Mouse Gamer,1,200.0,Eletrônicos
+178,2025-02-08,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+179,2025-06-11,Pedro Costa,Caderno,1,25.0,Papelaria
+180,2025/05/06,Pedro Costa,Mochila,4,150.0,Acessórios
+181,10-08-2025,Maria Silva,Mochila,3,150.0,Acessórios
+182,02-07-2025,Fernanda Lima,Mochila,5,150.0,Acessórios
+183,2025-02-13,João Souza,Garrafa Térmica,4,80.0,Utilidades
+184,2025/05/17,João Souza,Mochila,4,150.0,Acessórios
+185,2025-11-22,João Souza,Impressora HP,2,900.0,Eletrônicos
+186,01-09-2025,Pedro Costa,Monitor LG,1,1200.0,Eletrônicos
+187,2025/02/11,,Luminária,3,60.0,Utilidades
+188,18-12-2025,Ana Pereira,Monitor LG,três,1200.0,Eletrônicos
+189,04-05-2025,Ana Pereira,Luminária,1,60.0,
+190,2025-02-06,Ana Pereira,Caderno,4,25.0,Papelaria
+191,2025/10/09,,Caneta Azul,4,2.5,Papelaria
+192,2025-10-26,Maria Silva,Caderno,3,25.0,Papelaria
+193,07-06-2025,Ana Pereira,Mochila,1,150.0,Acessórios
+194,2025-10-04,,Luminária,3,60.0,Utilidades
+195,2025-08-03,Fernanda Lima,Monitor LG,2,1200.0,Eletrônicos
+196,2025/06/18,,Monitor LG,4,1200.0,Eletrônicos
+197,21-08-2025,Ana Pereira,Garrafa Térmica,3,80.0,Utilidades
+198,2025-11-19,João Souza,Caneta Azul,3,2.5,Papelaria
+199,2025-04-09,Ana Pereira,Monitor LG,2,-1200.0,Eletrônicos
+200,2025/11/05,João Souza,Monitor LG,5,1200.0,Eletrônicos
+201,2025-02-09,Pedro Costa,Mochila,5,150.0,Acessórios
+202,2025-12-16,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+203,2025-02-18,Maria Silva,Notebook Dell,4,3500.0,Eletrônicos
+204,2025/06/11,Ana Pereira,Luminária,4,60.0,Utilidades
+205,2025-06-26,Maria Silva,Garrafa Térmica,2,80.0,Utilidades
+206,2025/08/18,,Luminária,5,60.0,Utilidades
+207,2025-12-26,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+208,2025-02-28,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+209,2025-12-02,,Caneta Azul,2,2.5,Papelaria
+210,05-12-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+211,2025-04-12,Ana Pereira,Luminária,5,60.0,Utilidades
+212,03-10-2025,João Souza,Monitor LG,2,1200.0,Eletrônicos
+213,2025/01/24,Maria Silva,Caneta Azul,2,2.5,Papelaria
+214,02-09-2025,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+215,2025/07/01,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+216,2025-07-15,Fernanda Lima,Mochila,1,150.0,Acessórios
+217,2025/09/06,,Mouse Gamer,4,200.0,Eletrônicos
+218,05-11-2025,Ana Pereira,Caderno,2,25.0,Papelaria
+219,23-04-2025,Pedro Costa,Caderno,três,25.0,Papelaria
+220,22-06-2025,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+221,2025-12-01,Maria Silva,Notebook Dell,4,3500.0,Eletrônicos
+222,27-10-2025,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+223,2025/03/27,João Souza,Impressora HP,5,900.0,Eletrônicos
+224,2025/06/19,Fernanda Lima,Luminária,4,60.0,Utilidades
+225,2025-10-05,Ana Pereira,Luminária,1,60.0,Utilidades
+226,2025-02-23,João Souza,Caneta Azul,2,2.5,Papelaria
+227,2025/11/07,,Luminária,3,60.0,Utilidades
+228,2025/07/18,João Souza,Caderno,1,25.0,Papelaria
+229,12-03-2025,Fernanda Lima,Luminária,1,60.0,Utilidades
+230,19-10-2025,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+231,2025/08/15,,iPhone 13,5,5500.0,Eletrônicos
+232,2025/06/07,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+233,20-10-2025,,Mochila,3,150.0,Acessórios
+234,03-08-2025,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+235,2025-10-04,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+236,2025-09-02,Maria Silva,Caderno,5,25.0,Papelaria
+237,05-12-2025,Ana Pereira,Mochila,5,150.0,Acessórios
+238,12-11-2025,,iPhone 13,3,5500.0,Eletrônicos
+239,01-10-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+240,2025-05-20,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+241,2025-05-04,Fernanda Lima,Caderno,1,25.0,Papelaria
+242,2025-02-15,Maria Silva,Impressora HP,2,900.0,
+243,2025-07-22,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+244,2025-05-22,,Luminária,3,60.0,Utilidades
+245,2025-08-02,Ana Pereira,iPhone 13,5,5500.0,Eletrônicos
+246,2025/06/27,Ana Pereira,Caderno,2,25.0,Papelaria
+247,25-04-2025,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+248,2025/07/20,,Caneta Azul,3,2.5,Papelaria
+249,2025-05-24,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+250,2025-11-26,Fernanda Lima,Caderno,2,25.0,Papelaria
+251,2025/12/02,Pedro Costa,Mochila,3,150.0,Acessórios
+252,2025/11/04,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+253,2025-06-27,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+254,2025-12-08,Pedro Costa,Mochila,1,150.0,Acessórios
+255,03-08-2025,Fernanda Lima,Luminária,4,60.0,Utilidades
+256,2025-04-02,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+257,03-02-2025,Maria Silva,Caneta Azul,5,2.5,Papelaria
+258,2025/02/11,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+259,2025/07/09,Fernanda Lima,Luminária,2,60.0,Utilidades
+260,2025/06/07,Ana Pereira,Caderno,3,25.0,Papelaria
+261,2025/05/10,Maria Silva,Impressora HP,2,900.0,Eletrônicos
+262,12-10-2025,Ana Pereira,Garrafa Térmica,3,80.0,Utilidades
+263,2025-10-18,João Souza,Monitor LG,4,1200.0,Eletrônicos
+264,03-01-2025,,Mouse Gamer,4,200.0,Eletrônicos
+265,13-06-2025,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+266,2025-06-07,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+267,2025-02-11,Maria Silva,Luminária,2,60.0,Utilidades
+268,2025/07/15,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+269,2025/05/10,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+270,2025/10/02,Pedro Costa,Notebook Dell,4,3500.0,Eletrônicos
+271,2025/05/08,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+272,2025-12-03,,Garrafa Térmica,4,80.0,Utilidades
+273,2025-03-13,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+274,2025/05/03,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+275,2025-01-15,,Mochila,5,150.0,Acessórios
+276,2025-08-02,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+277,2025-06-25,Fernanda Lima,Mouse Gamer,2,200.0,Eletrônicos
+278,2025/10/01,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+279,2025/02/04,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+280,2025/12/06,Ana Pereira,iPhone 13,2,5500.0,Eletrônicos
+281,2025/03/06,Pedro Costa,Impressora HP,1,900.0,Eletrônicos
+282,2025/01/05,Maria Silva,Mochila,3,150.0,Acessórios
+283,21-01-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+284,10-11-2025,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+285,2025/08/12,,Mouse Gamer,4,200.0,Eletrônicos
+286,2025-03-22,Fernanda Lima,Mochila,3,150.0,Acessórios
+287,2025/02/11,Pedro Costa,Luminária,4,60.0,Utilidades
+288,2025/06/11,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+289,2025/12/02,Maria Silva,Monitor LG,1,1200.0,Eletrônicos
+290,25-11-2025,Maria Silva,Caderno,5,25.0,Papelaria
+291,2025/01/22,Maria Silva,Caderno,5,25.0,Papelaria
+292,03-02-2025,Maria Silva,Caneta Azul,2,2.5,Papelaria
+293,2025-06-16,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+294,17-07-2025,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+295,03-04-2025,,Caneta Azul,5,2.5,Papelaria
+296,2025-07-26,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+297,12-07-2025,Fernanda Lima,Caderno,1,25.0,Papelaria
+298,19-05-2025,Pedro Costa,Mouse Gamer,3,200.0,Eletrônicos
+299,01-05-2025,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+300,2025-12-20,,Impressora HP,1,900.0,Eletrônicos
+301,2025-03-03,Fernanda Lima,Mochila,5,150.0,Acessórios
+302,2025/06/17,,iPhone 13,2,5500.0,Eletrônicos
+303,2025/06/13,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+304,2025-01-28,,Impressora HP,4,900.0,Eletrônicos
+305,2025-08-24,,Caneta Azul,3,2.5,Papelaria
+306,28-03-2025,,Mouse Gamer,1,200.0,Eletrônicos
+307,07-04-2025,João Souza,Luminária,5,60.0,Utilidades
+308,2025-10-03,Ana Pereira,Notebook Dell,5,3500.0,Eletrônicos
+309,2025-10-04,,Caderno,1,25.0,Papelaria
+310,26-04-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+311,2025-06-21,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+312,2025/02/14,Maria Silva,Mochila,1,150.0,Acessórios
+313,2025-04-16,Pedro Costa,iPhone 13,3,5500.0,Eletrônicos
+314,09-10-2025,Maria Silva,Caderno,5,25.0,Papelaria
+315,2025/11/19,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+316,2025-11-11,Fernanda Lima,Garrafa Térmica,3,80.0,Utilidades
+317,13-09-2025,Pedro Costa,Caneta Azul,3,2.5,Papelaria
+318,2025-10-10,,Mouse Gamer,2,200.0,Eletrônicos
+319,2025/11/03,Pedro Costa,Luminária,1,60.0,Utilidades
+320,26-03-2025,,Garrafa Térmica,5,80.0,Utilidades
+321,05-09-2025,João Souza,Impressora HP,5,900.0,Eletrônicos
+322,19-10-2025,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+323,2025/04/02,Pedro Costa,Mouse Gamer,3,200.0,Eletrônicos
+324,03-06-2025,João Souza,Caderno,1,25.0,Papelaria
+325,01-03-2025,João Souza,Mouse Gamer,1,200.0,Eletrônicos
+326,2025-01-23,Fernanda Lima,Garrafa Térmica,2,80.0,Utilidades
+327,2025/04/06,Maria Silva,Caderno,3,25.0,Papelaria
+328,23-03-2025,Maria Silva,Luminária,1,60.0,Utilidades
+329,06-12-2025,Maria Silva,Caderno,5,25.0,Papelaria
+330,22-10-2025,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+331,2025/08/14,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+332,2025-03-05,,Garrafa Térmica,2,80.0,Utilidades
+333,2025-10-19,João Souza,Monitor LG,4,1200.0,Eletrônicos
+334,2025-04-11,João Souza,Caderno,5,25.0,Papelaria
+335,2025-01-21,Ana Pereira,Notebook Dell,4,3500.0,Eletrônicos
+336,2025/03/20,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+337,20-11-2025,Fernanda Lima,Caneta Azul,3,2.5,Papelaria
+338,2025/05/19,João Souza,Notebook Dell,2,3500.0,Eletrônicos
+339,2025-01-18,Ana Pereira,Luminária,4,60.0,Utilidades
+340,2025/01/26,,Mouse Gamer,3,200.0,Eletrônicos
+341,2025/10/22,Fernanda Lima,Mochila,3,150.0,Acessórios
+342,2025-03-08,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+343,2025/10/03,João Souza,Caderno,3,25.0,Papelaria
+344,23-08-2025,João Souza,Caneta Azul,5,2.5,Papelaria
+345,2025-12-06,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+346,2025-12-26,,Luminária,5,60.0,Utilidades
+347,2025-05-10,,Monitor LG,5,1200.0,Eletrônicos
+348,03-11-2025,Fernanda Lima,Caderno,4,25.0,Papelaria
+349,2025/04/15,João Souza,Monitor LG,1,1200.0,Eletrônicos
+350,2025/11/20,Ana Pereira,Caderno,5,25.0,Papelaria
+351,27-07-2025,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+352,2025/04/17,Ana Pereira,Caderno,2,25.0,Papelaria
+353,2025-08-14,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+354,2025/08/14,Pedro Costa,Impressora HP,três,900.0,Eletrônicos
+355,2025-03-05,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+356,18-03-2025,Fernanda Lima,Luminária,1,60.0,Utilidades
+357,05-01-2025,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+358,11-02-2025,Fernanda Lima,Garrafa Térmica,2,80.0,Utilidades
+359,14-05-2025,Pedro Costa,iPhone 13,5,-5500.0,Eletrônicos
+360,2025/10/27,Pedro Costa,Mouse Gamer,5,200.0,Eletrônicos
+361,2025-03-02,João Souza,Luminária,5,-60.0,Utilidades
+362,2025-08-23,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+363,2025-02-21,Fernanda Lima,Caderno,4,25.0,Papelaria
+364,10-12-2025,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+365,18-10-2025,,Luminária,5,60.0,Utilidades
+366,2025-04-16,João Souza,Monitor LG,2,1200.0,Eletrônicos
+367,2025-04-05,Ana Pereira,Caderno,2,25.0,Papelaria
+368,2025/03/02,Fernanda Lima,Caderno,2,25.0,Papelaria
+369,25-01-2025,,Luminária,2,60.0,Utilidades
+370,2025-01-12,Pedro Costa,iPhone 13,3,5500.0,Eletrônicos
+371,2025/01/25,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+372,2025-10-21,,Caneta Azul,2,2.5,Papelaria
+373,10-10-2025,Fernanda Lima,Caneta Azul,2,2.5,Papelaria
+374,2025/02/20,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+375,2025/08/09,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+376,02-06-2025,João Souza,Mouse Gamer,2,200.0,Eletrônicos
+377,27-05-2025,Ana Pereira,Caderno,2,25.0,Papelaria
+378,2025-02-24,Ana Pereira,Caderno,1,-25.0,Papelaria
+379,08-12-2025,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+380,2025/11/22,João Souza,Notebook Dell,1,3500.0,Eletrônicos
+381,18-07-2025,,Mochila,2,150.0,Acessórios
+382,2025/07/12,Maria Silva,Luminária,5,60.0,Utilidades
+383,2025-07-10,,Mouse Gamer,3,200.0,Eletrônicos
+384,2025/05/03,Pedro Costa,Mouse Gamer,5,200.0,Eletrônicos
+385,20-09-2025,Fernanda Lima,Mouse Gamer,2,200.0,Eletrônicos
+386,2025-10-16,Fernanda Lima,Monitor LG,3,1200.0,Eletrônicos
+387,2025/01/10,Ana Pereira,Mouse Gamer,3,200.0,Eletrônicos
+388,13-10-2025,Pedro Costa,Mochila,3,150.0,Acessórios
+389,2025-04-12,Maria Silva,Mochila,5,150.0,Acessórios
+390,14-02-2025,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+391,2025/08/23,Pedro Costa,Caderno,2,25.0,Papelaria
+392,21-02-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+393,2025-05-26,,Mochila,2,150.0,Acessórios
+394,2025-03-05,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+395,01-12-2025,Pedro Costa,Monitor LG,1,1200.0,Eletrônicos
+396,2025/02/11,João Souza,Monitor LG,4,1200.0,Eletrônicos
+397,2025/02/18,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+398,2025/03/15,Maria Silva,Caderno,1,25.0,Papelaria
+399,05-09-2025,Pedro Costa,Monitor LG,2,1200.0,
+400,2025-05-19,Maria Silva,iPhone 13,1,5500.0,Eletrônicos
+401,01-12-2025,,iPhone 13,4,5500.0,Eletrônicos
+402,2025-02-19,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+403,2025/10/25,Pedro Costa,Garrafa Térmica,3,-80.0,Utilidades
+404,2025-10-05,João Souza,iPhone 13,1,5500.0,Eletrônicos
+405,2025-12-22,Ana Pereira,Mochila,1,150.0,Acessórios
+406,2025/12/09,Fernanda Lima,Garrafa Térmica,5,80.0,Utilidades
+407,07-07-2025,Ana Pereira,Caderno,3,25.0,Papelaria
+408,2025/03/27,,Caderno,3,25.0,Papelaria
+409,2025-08-03,Fernanda Lima,Mochila,4,150.0,Acessórios
+410,03-05-2025,Fernanda Lima,Caderno,2,25.0,Papelaria
+411,2025/07/10,Maria Silva,Caneta Azul,1,2.5,Papelaria
+412,16-11-2025,Ana Pereira,Luminária,três,60.0,Utilidades
+413,08-07-2025,Maria Silva,Caderno,1,25.0,
+414,2025/08/26,João Souza,Monitor LG,3,1200.0,
+415,24-08-2025,Maria Silva,Caderno,2,25.0,Papelaria
+416,2025/09/26,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+417,2025/11/18,Pedro Costa,Mouse Gamer,3,200.0,Eletrônicos
+418,2025/09/10,,Mouse Gamer,3,200.0,Eletrônicos
+419,14-05-2025,Fernanda Lima,Mochila,5,150.0,Acessórios
+420,2025/04/04,Pedro Costa,Caneta Azul,2,2.5,Papelaria
+421,13-08-2025,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+422,2025/06/10,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+423,07-04-2025,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+424,01-02-2025,João Souza,Luminária,3,60.0,Utilidades
+425,2025-05-15,,Caderno,três,25.0,Papelaria
+426,2025/07/27,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+427,2025/10/17,Maria Silva,Mouse Gamer,3,200.0,Eletrônicos
+428,14-11-2025,João Souza,Luminária,5,60.0,Utilidades
+429,25-09-2025,,Garrafa Térmica,2,80.0,Utilidades
+430,2025/12/09,Pedro Costa,Luminária,4,60.0,Utilidades
+431,12-03-2025,Fernanda Lima,Luminária,4,60.0,Utilidades
+432,2025-09-17,Fernanda Lima,Luminária,1,60.0,Utilidades
+433,2025-06-10,Ana Pereira,Garrafa Térmica,3,80.0,Utilidades
+434,09-11-2025,,Monitor LG,três,1200.0,Eletrônicos
+435,2025/08/13,Maria Silva,Caneta Azul,3,2.5,Papelaria
+436,2025/05/02,João Souza,Mochila,3,150.0,Acessórios
+437,2025-09-24,João Souza,Impressora HP,4,900.0,Eletrônicos
+438,21-02-2025,João Souza,iPhone 13,3,5500.0,Eletrônicos
+439,22-12-2025,João Souza,Mochila,3,-150.0,Acessórios
+440,2025/08/23,,Caderno,2,25.0,Papelaria
+441,27-12-2025,João Souza,iPhone 13,1,5500.0,Eletrônicos
+442,2025/09/18,João Souza,Mochila,5,150.0,Acessórios
+443,2025/08/02,,Garrafa Térmica,3,80.0,Utilidades
+444,2025/11/24,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+445,2025-05-27,,Monitor LG,5,1200.0,Eletrônicos
+446,2025/03/11,Maria Silva,Monitor LG,2,1200.0,Eletrônicos
+447,20-08-2025,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+448,17-06-2025,Ana Pereira,Luminária,3,60.0,Utilidades
+449,05-08-2025,,Luminária,2,60.0,Utilidades
+450,27-05-2025,João Souza,Luminária,3,60.0,Utilidades
+451,21-07-2025,Ana Pereira,Monitor LG,5,-1200.0,Eletrônicos
+452,2025/11/09,João Souza,Mochila,1,150.0,Acessórios
+453,2025-04-24,,Monitor LG,4,1200.0,Eletrônicos
+454,2025-03-14,João Souza,Caneta Azul,3,2.5,Papelaria
+455,2025/05/28,Pedro Costa,Caneta Azul,3,2.5,Papelaria
+456,26-09-2025,Fernanda Lima,Mochila,3,150.0,Acessórios
+457,20-11-2025,,Monitor LG,5,-1200.0,Eletrônicos
+458,2025/08/09,Maria Silva,Garrafa Térmica,2,80.0,Utilidades
+459,14-04-2025,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+460,06-07-2025,Pedro Costa,Caneta Azul,5,2.5,Papelaria
+461,2025-05-14,Pedro Costa,Caderno,5,25.0,Papelaria
+462,03-07-2025,João Souza,Mochila,3,150.0,Acessórios
+463,2025/11/15,Ana Pereira,Luminária,5,60.0,Utilidades
+464,2025-12-06,,Caneta Azul,3,2.5,Papelaria
+465,2025-02-23,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+466,2025/03/23,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+467,08-05-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+468,2025/11/18,Maria Silva,Impressora HP,4,900.0,
+469,2025-06-16,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+470,2025-06-08,Ana Pereira,Luminária,5,60.0,Utilidades
+471,2025/08/16,,Garrafa Térmica,2,80.0,Utilidades
+472,2025-03-16,Fernanda Lima,Luminária,2,60.0,Utilidades
+473,2025/08/22,Maria Silva,iPhone 13,5,5500.0,Eletrônicos
+474,2025-03-12,Ana Pereira,Luminária,3,60.0,Utilidades
+475,27-03-2025,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+476,2025/11/20,Ana Pereira,Luminária,2,60.0,Utilidades
+477,14-08-2025,Pedro Costa,Garrafa Térmica,1,80.0,Utilidades
+478,2025/06/05,Fernanda Lima,iPhone 13,4,5500.0,Eletrônicos
+479,2025-09-19,Maria Silva,Notebook Dell,2,3500.0,Eletrônicos
+480,2025/08/27,,Mouse Gamer,4,200.0,Eletrônicos
+481,2025-09-09,Pedro Costa,Monitor LG,3,1200.0,Eletrônicos
+482,2025/09/24,João Souza,iPhone 13,2,5500.0,Eletrônicos
+483,2025-09-02,,Notebook Dell,2,3500.0,Eletrônicos
+484,2025/06/02,,Notebook Dell,3,3500.0,Eletrônicos
+485,2025-10-14,,Notebook Dell,5,3500.0,Eletrônicos
+486,2025/08/15,Pedro Costa,Caderno,4,25.0,Papelaria
+487,2025/10/27,Fernanda Lima,Garrafa Térmica,3,80.0,Utilidades
+488,2025/03/14,,Caneta Azul,1,2.5,Papelaria
+489,2025/07/01,,Caneta Azul,3,2.5,Papelaria
+490,2025/11/13,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+491,2025-07-14,,Impressora HP,2,900.0,Eletrônicos
+492,2025-01-23,Fernanda Lima,Caderno,1,25.0,Papelaria
+493,2025/01/05,Pedro Costa,Luminária,3,60.0,Utilidades
+494,25-10-2025,Maria Silva,Caderno,1,25.0,Papelaria
+495,17-07-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+496,03-05-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+497,2025/11/22,Ana Pereira,Impressora HP,1,900.0,Eletrônicos
+498,01-12-2025,,Garrafa Térmica,1,80.0,
+499,2025/04/11,João Souza,Monitor LG,2,1200.0,Eletrônicos
+500,04-01-2025,,Luminária,1,60.0,Utilidades
+501,22-04-2025,Fernanda Lima,Mochila,2,150.0,Acessórios
+502,25-08-2025,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+503,2025/11/26,,Impressora HP,2,900.0,Eletrônicos
+504,13-03-2025,Pedro Costa,Luminária,3,60.0,Utilidades
+505,2025/05/04,Ana Pereira,Mouse Gamer,2,200.0,
+506,26-08-2025,João Souza,Garrafa Térmica,2,80.0,Utilidades
+507,2025/07/25,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+508,2025/03/26,João Souza,Notebook Dell,2,3500.0,
+509,2025-08-01,Maria Silva,Luminária,5,60.0,Utilidades
+510,2025/07/09,Pedro Costa,Caderno,5,25.0,Papelaria
+511,2025-11-12,Maria Silva,Mouse Gamer,3,200.0,Eletrônicos
+512,2025/09/18,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+513,2025/11/15,João Souza,iPhone 13,1,5500.0,Eletrônicos
+514,2025/11/05,João Souza,Caderno,5,25.0,Papelaria
+515,04-09-2025,João Souza,iPhone 13,3,5500.0,Eletrônicos
+516,2025/12/05,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+517,16-09-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+518,2025/06/15,Maria Silva,Caneta Azul,1,2.5,Papelaria
+519,2025-07-26,,Monitor LG,1,1200.0,Eletrônicos
+520,08-01-2025,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+521,2025/01/01,Maria Silva,Mochila,5,150.0,Acessórios
+522,2025-01-13,Ana Pereira,Luminária,5,60.0,Utilidades
+523,2025/04/07,Fernanda Lima,Garrafa Térmica,4,80.0,Utilidades
+524,16-01-2025,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+525,2025/03/20,Ana Pereira,Notebook Dell,3,3500.0,Eletrônicos
+526,22-03-2025,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+527,22-04-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+528,26-07-2025,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+529,12-11-2025,Ana Pereira,Garrafa Térmica,3,80.0,Utilidades
+530,03-02-2025,Ana Pereira,iPhone 13,3,-5500.0,Eletrônicos
+531,2025/04/02,,iPhone 13,2,5500.0,Eletrônicos
+532,07-10-2025,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+533,2025-08-12,Pedro Costa,Caderno,5,25.0,Papelaria
+534,2025-02-27,Ana Pereira,Caneta Azul,3,2.5,Papelaria
+535,2025-02-16,Pedro Costa,Caneta Azul,2,2.5,Papelaria
+536,14-01-2025,,Mouse Gamer,1,200.0,Eletrônicos
+537,2025-01-13,,Impressora HP,3,900.0,Eletrônicos
+538,2025-09-13,Ana Pereira,Luminária,3,60.0,Utilidades
+539,11-02-2025,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+540,28-01-2025,Maria Silva,Mochila,4,150.0,Acessórios
+541,10-01-2025,,Garrafa Térmica,4,80.0,Utilidades
+542,25-09-2025,Pedro Costa,Mochila,3,150.0,Acessórios
+543,18-04-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+544,2025/09/10,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+545,2025-12-21,João Souza,Impressora HP,2,900.0,Eletrônicos
+546,2025-07-26,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+547,2025/11/11,Fernanda Lima,Mouse Gamer,1,200.0,Eletrônicos
+548,09-05-2025,Maria Silva,Mochila,3,150.0,Acessórios
+549,22-05-2025,Ana Pereira,Caderno,2,25.0,Papelaria
+550,02-08-2025,João Souza,Mouse Gamer,2,200.0,Eletrônicos
+551,2025/06/12,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+552,2025/11/20,Pedro Costa,Mochila,4,150.0,Acessórios
+553,2025/11/14,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+554,2025-03-13,Maria Silva,Caderno,2,25.0,Papelaria
+555,2025-12-17,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+556,13-05-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+557,19-11-2025,,Notebook Dell,2,3500.0,Eletrônicos
+558,2025-03-25,Maria Silva,Caderno,4,25.0,Papelaria
+559,2025-12-13,João Souza,Caderno,4,25.0,Papelaria
+560,2025/11/19,,iPhone 13,2,5500.0,Eletrônicos
+561,2025/05/16,Maria Silva,Luminária,3,60.0,Utilidades
+562,2025-11-11,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+563,21-07-2025,Fernanda Lima,Monitor LG,1,1200.0,Eletrônicos
+564,07-03-2025,,Monitor LG,1,1200.0,Eletrônicos
+565,14-11-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+566,2025/04/05,Fernanda Lima,Notebook Dell,1,3500.0,Eletrônicos
+567,2025/01/03,Fernanda Lima,Luminária,4,60.0,Utilidades
+568,2025-01-15,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+569,27-08-2025,Maria Silva,Luminária,5,60.0,Utilidades
+570,2025/10/23,Pedro Costa,Luminária,1,60.0,Utilidades
+571,2025-03-25,Fernanda Lima,Notebook Dell,3,3500.0,Eletrônicos
+572,2025-03-14,Fernanda Lima,Mochila,3,150.0,Acessórios
+573,2025/07/15,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+574,08-11-2025,João Souza,Monitor LG,2,1200.0,Eletrônicos
+575,2025/05/06,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+576,2025-02-25,Fernanda Lima,Mochila,1,150.0,Acessórios
+577,23-02-2025,Fernanda Lima,Monitor LG,2,1200.0,Eletrônicos
+578,2025/10/18,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+579,2025/01/13,João Souza,Impressora HP,4,900.0,Eletrônicos
+580,2025-04-10,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+581,2025-11-02,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+582,2025/02/04,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+583,2025-01-25,Fernanda Lima,Garrafa Térmica,3,80.0,Utilidades
+584,2025/01/04,Maria Silva,Caneta Azul,5,2.5,Papelaria
+585,2025/06/07,,Garrafa Térmica,3,80.0,Utilidades
+586,2025-08-12,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+587,2025/01/10,Fernanda Lima,Caderno,3,25.0,Papelaria
+588,16-01-2025,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+589,2025/11/04,João Souza,Monitor LG,2,-1200.0,Eletrônicos
+590,01-05-2025,Maria Silva,Caneta Azul,1,2.5,Papelaria
+591,2025-06-01,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+592,2025/12/14,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+593,2025-04-12,Maria Silva,Caderno,4,25.0,Papelaria
+594,04-12-2025,,Monitor LG,4,1200.0,Eletrônicos
+595,22-08-2025,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+596,03-10-2025,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+597,2025-10-19,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+598,12-01-2025,Fernanda Lima,Mochila,1,150.0,Acessórios
+599,2025/09/17,Pedro Costa,Mouse Gamer,5,200.0,Eletrônicos
+600,2025/05/06,Ana Pereira,Monitor LG,3,1200.0,Eletrônicos
+601,2025/04/10,Ana Pereira,Impressora HP,três,900.0,Eletrônicos
+602,2025-02-26,,Caderno,5,25.0,Papelaria
+603,09-02-2025,João Souza,Caderno,2,25.0,Papelaria
+604,2025-01-27,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+605,2025-04-04,Ana Pereira,Notebook Dell,3,3500.0,Eletrônicos
+606,14-03-2025,,iPhone 13,3,5500.0,Eletrônicos
+607,2025-09-09,Fernanda Lima,Mochila,5,150.0,Acessórios
+608,2025/08/09,,iPhone 13,5,5500.0,Eletrônicos
+609,06-09-2025,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+610,09-10-2025,Fernanda Lima,iPhone 13,2,5500.0,Eletrônicos
+611,2025-05-22,João Souza,Luminária,1,60.0,Utilidades
+612,2025/06/28,,Mochila,5,150.0,Acessórios
+613,2025/11/11,João Souza,Garrafa Térmica,5,80.0,Utilidades
+614,11-01-2025,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+615,2025-07-06,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+616,2025-11-22,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+617,05-02-2025,Maria Silva,Caneta Azul,5,2.5,Papelaria
+618,2025/03/01,,iPhone 13,4,5500.0,Eletrônicos
+619,2025/08/06,Maria Silva,Caderno,1,25.0,Papelaria
+620,2025-09-07,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+621,2025/10/12,Maria Silva,Caneta Azul,3,2.5,Papelaria
+622,23-10-2025,João Souza,Impressora HP,2,900.0,Eletrônicos
+623,2025-04-01,João Souza,Mochila,3,150.0,Acessórios
+624,2025-08-24,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+625,02-12-2025,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+626,2025/11/28,João Souza,iPhone 13,5,5500.0,
+627,2025/09/09,João Souza,Monitor LG,2,1200.0,Eletrônicos
+628,03-12-2025,Ana Pereira,Notebook Dell,2,3500.0,Eletrônicos
+629,2025-09-10,,iPhone 13,2,5500.0,Eletrônicos
+630,2025/08/19,,Mouse Gamer,1,200.0,Eletrônicos
+631,28-08-2025,João Souza,Mochila,1,150.0,Acessórios
+632,03-02-2025,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+633,2025-03-27,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+634,28-04-2025,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+635,2025-07-28,Maria Silva,iPhone 13,4,5500.0,Eletrônicos
+636,25-11-2025,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+637,2025/02/27,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+638,2025/06/02,João Souza,iPhone 13,4,5500.0,Eletrônicos
+639,2025-03-08,Fernanda Lima,Monitor LG,4,1200.0,Eletrônicos
+640,2025/03/09,Fernanda Lima,iPhone 13,4,5500.0,Eletrônicos
+641,16-06-2025,João Souza,Mouse Gamer,4,200.0,Eletrônicos
+642,12-03-2025,Ana Pereira,Impressora HP,4,900.0,Eletrônicos
+643,2025-06-04,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+644,18-12-2025,João Souza,Monitor LG,4,1200.0,Eletrônicos
+645,28-08-2025,Pedro Costa,Mouse Gamer,2,-200.0,Eletrônicos
+646,18-08-2025,Maria Silva,iPhone 13,4,5500.0,Eletrônicos
+647,2025-03-07,João Souza,Mouse Gamer,4,200.0,Eletrônicos
+648,2025-08-07,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+649,2025/02/06,,Garrafa Térmica,1,80.0,Utilidades
+650,18-05-2025,Maria Silva,Luminária,3,60.0,Utilidades
+651,2025/06/01,Maria Silva,Mochila,2,150.0,Acessórios
+652,2025-09-05,Ana Pereira,Notebook Dell,4,3500.0,Eletrônicos
+653,2025/03/19,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+654,2025/02/09,João Souza,Garrafa Térmica,1,80.0,Utilidades
+655,05-09-2025,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+656,2025/12/12,,Impressora HP,5,900.0,Eletrônicos
+657,25-07-2025,Ana Pereira,Monitor LG,três,1200.0,
+658,02-07-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+659,2025/01/25,João Souza,Garrafa Térmica,1,80.0,
+660,2025-05-09,Pedro Costa,Caderno,2,25.0,Papelaria
+661,2025/02/15,Maria Silva,Caneta Azul,3,2.5,Papelaria
+662,2025/10/27,,Caneta Azul,2,2.5,Papelaria
+663,06-03-2025,João Souza,Mochila,1,150.0,Acessórios
+664,2025/12/19,João Souza,Monitor LG,2,1200.0,Eletrônicos
+665,2025/07/15,Maria Silva,Mochila,2,150.0,Acessórios
+666,06-02-2025,Pedro Costa,Monitor LG,1,1200.0,Eletrônicos
+667,2025-05-18,Maria Silva,Mochila,1,150.0,Acessórios
+668,03-09-2025,João Souza,Mochila,5,150.0,Acessórios
+669,2025-05-14,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+670,2025/01/22,Ana Pereira,Caneta Azul,3,2.5,Papelaria
+671,04-10-2025,Ana Pereira,Caderno,5,25.0,
+672,2025-12-05,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+673,2025-12-24,,Mouse Gamer,5,-200.0,Eletrônicos
+674,2025-09-19,Maria Silva,Notebook Dell,2,3500.0,Eletrônicos
+675,2025/12/15,João Souza,Caderno,1,25.0,
+676,04-12-2025,Pedro Costa,Luminária,1,60.0,Utilidades
+677,2025-01-03,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+678,28-02-2025,,Mochila,2,150.0,Acessórios
+679,2025-07-03,Fernanda Lima,Notebook Dell,4,3500.0,Eletrônicos
+680,2025/05/13,João Souza,Garrafa Térmica,3,80.0,Utilidades
+681,2025/05/13,João Souza,Garrafa Térmica,3,80.0,Utilidades
+682,2025/10/21,,Luminária,2,60.0,Utilidades
+683,2025/02/26,,Caneta Azul,2,2.5,Papelaria
+684,22-01-2025,João Souza,Luminária,4,60.0,Utilidades
+685,2025-10-03,Fernanda Lima,iPhone 13,4,-5500.0,Eletrônicos
+686,2025/02/03,,Caderno,3,25.0,Papelaria
+687,2025/11/24,,iPhone 13,5,5500.0,Eletrônicos
+688,2025-07-06,Maria Silva,Caneta Azul,5,2.5,Papelaria
+689,2025-04-02,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+690,13-10-2025,Ana Pereira,Monitor LG,1,1200.0,Eletrônicos
+691,2025-06-10,João Souza,Caneta Azul,2,2.5,Papelaria
+692,2025-09-02,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+693,2025-11-17,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+694,2025/11/23,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+695,14-11-2025,João Souza,Luminária,1,60.0,Utilidades
+696,2025/05/01,Fernanda Lima,Luminária,três,60.0,Utilidades
+697,14-10-2025,,Monitor LG,3,1200.0,Eletrônicos
+698,2025/01/23,João Souza,Monitor LG,2,1200.0,Eletrônicos
+699,2025/02/20,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+700,2025/12/25,Maria Silva,Mochila,1,150.0,Acessórios
+701,19-03-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+702,2025-04-22,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+703,2025-08-22,,Impressora HP,2,900.0,Eletrônicos
+704,2025/04/21,,Mouse Gamer,2,200.0,Eletrônicos
+705,2025-11-07,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+706,2025-07-21,Fernanda Lima,Caderno,4,25.0,Papelaria
+707,2025/08/07,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+708,2025/01/07,Fernanda Lima,Monitor LG,4,1200.0,Eletrônicos
+709,2025/11/06,Maria Silva,Mochila,2,150.0,Acessórios
+710,2025/02/16,Ana Pereira,Mochila,2,150.0,Acessórios
+711,2025-06-16,,Mouse Gamer,5,200.0,Eletrônicos
+712,28-02-2025,Pedro Costa,Luminária,1,-60.0,Utilidades
+713,2025-03-04,,Mochila,3,150.0,Acessórios
+714,2025-01-01,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+715,2025/07/01,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+716,2025/12/02,,Mochila,5,150.0,Acessórios
+717,07-08-2025,,Mochila,1,150.0,Acessórios
+718,2025-06-11,Maria Silva,Notebook Dell,3,3500.0,Eletrônicos
+719,12-04-2025,,Luminária,2,60.0,Utilidades
+720,2025-04-02,João Souza,Luminária,5,60.0,Utilidades
+721,2025/06/24,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+722,06-06-2025,Fernanda Lima,Luminária,1,60.0,Utilidades
+723,2025-01-06,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+724,10-01-2025,Pedro Costa,Impressora HP,3,900.0,Eletrônicos
+725,2025/05/22,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+726,2025-11-26,Fernanda Lima,Caderno,3,25.0,Papelaria
+727,2025-03-18,Pedro Costa,Mouse Gamer,3,200.0,Eletrônicos
+728,2025-02-05,Fernanda Lima,Mochila,4,150.0,Acessórios
+729,2025/07/04,Fernanda Lima,Impressora HP,5,900.0,Eletrônicos
+730,16-11-2025,João Souza,Caderno,2,-25.0,Papelaria
+731,2025-06-10,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+732,05-08-2025,,Notebook Dell,3,3500.0,Eletrônicos
+733,2025-05-21,João Souza,iPhone 13,5,5500.0,Eletrônicos
+734,2025-09-07,João Souza,Caneta Azul,5,2.5,Papelaria
+735,2025-11-20,Fernanda Lima,Caderno,3,25.0,Papelaria
+736,18-10-2025,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+737,08-07-2025,,Caneta Azul,1,-2.5,Papelaria
+738,2025/09/01,Ana Pereira,Mouse Gamer,2,200.0,Eletrônicos
+739,2025/07/07,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+740,04-07-2025,Fernanda Lima,Luminária,1,60.0,
+741,2025-08-09,Maria Silva,Impressora HP,três,900.0,Eletrônicos
+742,2025/05/26,Fernanda Lima,Mochila,4,150.0,Acessórios
+743,22-06-2025,Maria Silva,Notebook Dell,2,3500.0,Eletrônicos
+744,2025/04/16,,Monitor LG,1,1200.0,Eletrônicos
+745,2025/08/28,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+746,12-01-2025,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+747,2025/02/11,,Garrafa Térmica,4,80.0,Utilidades
+748,2025-07-28,Pedro Costa,Luminária,4,60.0,Utilidades
+749,04-06-2025,João Souza,Mochila,2,150.0,Acessórios
+750,2025/01/27,Fernanda Lima,iPhone 13,3,5500.0,Eletrônicos
+751,2025/01/18,Pedro Costa,Luminária,4,60.0,Utilidades
+752,2025-03-25,Fernanda Lima,Garrafa Térmica,3,80.0,Utilidades
+753,05-03-2025,João Souza,Caderno,5,25.0,Papelaria
+754,2025-11-15,Ana Pereira,Mochila,4,150.0,Acessórios
+755,2025-09-12,,Mochila,4,150.0,Acessórios
+756,2025-04-15,João Souza,Monitor LG,1,1200.0,
+757,2025/12/28,João Souza,Mouse Gamer,2,200.0,Eletrônicos
+758,2025-06-05,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+759,2025-03-16,,Mochila,1,150.0,Acessórios
+760,2025/09/05,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+761,2025/08/09,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+762,2025/06/03,,iPhone 13,1,5500.0,Eletrônicos
+763,2025/07/20,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+764,2025-08-19,Maria Silva,Caneta Azul,1,2.5,Papelaria
+765,2025-01-20,,Luminária,1,60.0,Utilidades
+766,2025-10-07,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+767,2025-07-20,Maria Silva,Luminária,3,60.0,Utilidades
+768,2025/02/02,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+769,2025/02/28,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+770,2025-05-13,Pedro Costa,Caneta Azul,1,2.5,Papelaria
+771,2025-10-03,Ana Pereira,Luminária,3,-60.0,Utilidades
+772,2025/03/24,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+773,13-07-2025,,Luminária,4,60.0,Utilidades
+774,2025-04-01,Fernanda Lima,Monitor LG,4,1200.0,Eletrônicos
+775,2025-07-22,,Impressora HP,1,900.0,Eletrônicos
+776,2025-08-15,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+777,09-03-2025,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+778,2025-08-02,Pedro Costa,Caneta Azul,5,2.5,Papelaria
+779,2025/11/03,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+780,19-04-2025,João Souza,Caderno,2,25.0,Papelaria
+781,06-01-2025,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+782,01-04-2025,Fernanda Lima,Caderno,3,25.0,Papelaria
+783,2025-01-02,Pedro Costa,Caneta Azul,5,2.5,Papelaria
+784,2025-10-03,Pedro Costa,Mochila,4,150.0,Acessórios
+785,14-03-2025,Pedro Costa,Monitor LG,3,1200.0,Eletrônicos
+786,15-12-2025,Maria Silva,Notebook Dell,4,3500.0,Eletrônicos
+787,2025/08/24,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+788,2025/07/15,,Mochila,5,150.0,Acessórios
+789,04-11-2025,Maria Silva,Caderno,4,25.0,Papelaria
+790,28-11-2025,,Caderno,5,25.0,Papelaria
+791,2025/09/11,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+792,2025/08/20,Fernanda Lima,Notebook Dell,3,3500.0,Eletrônicos
+793,2025/01/04,Maria Silva,Caderno,3,25.0,Papelaria
+794,03-08-2025,Fernanda Lima,Luminária,1,60.0,Utilidades
+795,2025/02/26,Maria Silva,Monitor LG,1,1200.0,Eletrônicos
+796,2025/05/11,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+797,2025-04-15,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+798,26-04-2025,Pedro Costa,iPhone 13,4,5500.0,Eletrônicos
+799,2025-05-13,Ana Pereira,Caderno,5,25.0,Papelaria
+800,01-04-2025,Fernanda Lima,Caderno,5,25.0,Papelaria
+801,09-02-2025,João Souza,Mochila,4,150.0,Acessórios
+802,2025/05/03,,Monitor LG,5,1200.0,Eletrônicos
+803,12-09-2025,Maria Silva,Luminária,5,60.0,Utilidades
+804,2025-09-10,Maria Silva,Caderno,3,25.0,
+805,2025/06/26,Pedro Costa,Garrafa Térmica,4,80.0,Utilidades
+806,2025/09/12,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+807,2025/08/27,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+808,2025-04-18,João Souza,Garrafa Térmica,4,80.0,
+809,2025-10-27,Maria Silva,Mouse Gamer,três,200.0,Eletrônicos
+810,16-12-2025,Ana Pereira,Caderno,5,25.0,Papelaria
+811,2025/03/06,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+812,08-09-2025,Fernanda Lima,Luminária,3,60.0,Utilidades
+813,2025-08-02,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+814,2025/07/23,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+815,2025-09-16,Pedro Costa,Caneta Azul,1,2.5,Papelaria
+816,2025/09/13,Ana Pereira,Caderno,3,25.0,Papelaria
+817,18-08-2025,,iPhone 13,3,5500.0,Eletrônicos
+818,24-07-2025,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+819,2025/10/16,Maria Silva,Impressora HP,2,900.0,Eletrônicos
+820,2025-11-19,Fernanda Lima,Notebook Dell,1,3500.0,Eletrônicos
+821,2025-12-04,João Souza,Mochila,5,150.0,Acessórios
+822,2025/02/03,Pedro Costa,Monitor LG,3,1200.0,Eletrônicos
+823,08-03-2025,Ana Pereira,Caderno,3,25.0,Papelaria
+824,2025/10/14,Maria Silva,Impressora HP,2,900.0,Eletrônicos
+825,2025-05-09,Maria Silva,Mochila,2,150.0,Acessórios
+826,2025-09-07,,iPhone 13,5,5500.0,Eletrônicos
+827,2025/06/17,Ana Pereira,Garrafa Térmica,três,80.0,Utilidades
+828,2025/04/24,Fernanda Lima,Monitor LG,3,1200.0,Eletrônicos
+829,20-08-2025,João Souza,Monitor LG,três,1200.0,Eletrônicos
+830,2025/05/11,João Souza,iPhone 13,2,5500.0,Eletrônicos
+831,2025/12/01,Pedro Costa,Luminária,2,60.0,Utilidades
+832,2025-06-06,Maria Silva,Monitor LG,4,1200.0,Eletrônicos
+833,2025/06/18,Maria Silva,Caneta Azul,5,2.5,Papelaria
+834,2025-02-20,Pedro Costa,Monitor LG,3,1200.0,Eletrônicos
+835,2025/11/21,Ana Pereira,Monitor LG,4,1200.0,
+836,2025-11-03,,Mochila,4,150.0,Acessórios
+837,2025/05/11,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+838,2025-03-04,,Notebook Dell,4,3500.0,Eletrônicos
+839,2025/05/09,,Luminária,2,60.0,Utilidades
+840,2025/07/04,,Caneta Azul,1,2.5,Papelaria
+841,16-08-2025,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+842,27-06-2025,Ana Pereira,Luminária,3,60.0,Utilidades
+843,2025/11/07,João Souza,Caneta Azul,1,2.5,Papelaria
+844,2025-05-01,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+845,2025-05-16,Ana Pereira,Monitor LG,2,1200.0,Eletrônicos
+846,2025-06-20,,Notebook Dell,4,3500.0,Eletrônicos
+847,2025/12/15,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+848,2025-03-04,,Impressora HP,3,900.0,Eletrônicos
+849,2025/04/11,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+850,2025-05-12,João Souza,Impressora HP,2,900.0,Eletrônicos
+851,14-09-2025,Pedro Costa,Notebook Dell,2,3500.0,Eletrônicos
+852,2025/04/24,Pedro Costa,Mochila,4,150.0,Acessórios
+853,2025-09-09,Pedro Costa,Luminária,1,60.0,Utilidades
+854,22-05-2025,Pedro Costa,Impressora HP,3,900.0,Eletrônicos
+855,15-07-2025,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+856,2025-07-07,Ana Pereira,Mochila,5,150.0,Acessórios
+857,11-07-2025,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+858,2025/04/05,Ana Pereira,Mochila,5,150.0,Acessórios
+859,2025/04/10,Fernanda Lima,Mochila,5,150.0,Acessórios
+860,04-02-2025,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+861,2025-01-25,Fernanda Lima,Luminária,5,60.0,Utilidades
+862,2025/09/23,João Souza,Monitor LG,3,1200.0,Eletrônicos
+863,2025/01/03,Pedro Costa,Mochila,3,150.0,Acessórios
+864,2025/03/09,Maria Silva,Caneta Azul,3,2.5,Papelaria
+865,2025/12/25,Fernanda Lima,Monitor LG,4,1200.0,Eletrônicos
+866,2025/02/11,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+867,2025-01-25,Maria Silva,Monitor LG,1,1200.0,Eletrônicos
+868,2025/01/24,João Souza,Caderno,5,25.0,Papelaria
+869,2025/05/28,Pedro Costa,Luminária,4,60.0,Utilidades
+870,2025-11-25,Maria Silva,Caneta Azul,1,2.5,Papelaria
+871,2025-09-26,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+872,2025-05-28,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+873,2025/05/12,João Souza,Impressora HP,3,900.0,Eletrônicos
+874,14-07-2025,Fernanda Lima,iPhone 13,2,5500.0,Eletrônicos
+875,2025-01-09,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+876,2025-01-07,,Monitor LG,1,1200.0,Eletrônicos
+877,04-01-2025,Maria Silva,Caderno,3,25.0,Papelaria
+878,2025-03-05,,Luminária,2,60.0,Utilidades
+879,12-05-2025,Fernanda Lima,Caneta Azul,4,2.5,Papelaria
+880,16-08-2025,Pedro Costa,Monitor LG,3,1200.0,Eletrônicos
+881,2025-09-16,João Souza,Caneta Azul,2,2.5,Papelaria
+882,2025/02/04,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+883,2025-05-11,Pedro Costa,Caneta Azul,1,2.5,Papelaria
+884,2025-10-28,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+885,2025-02-27,,Caneta Azul,4,2.5,Papelaria
+886,2025-12-17,João Souza,Mochila,5,150.0,Acessórios
+887,22-08-2025,,Mouse Gamer,4,200.0,Eletrônicos
+888,16-09-2025,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+889,2025-07-12,Ana Pereira,Caderno,3,25.0,Papelaria
+890,28-11-2025,,Caneta Azul,5,2.5,Papelaria
+891,2025/10/08,Ana Pereira,Mochila,4,150.0,Acessórios
+892,2025-01-03,Pedro Costa,iPhone 13,3,5500.0,Eletrônicos
+893,2025-10-12,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+894,2025/02/11,,Caderno,4,25.0,Papelaria
+895,2025/10/20,Fernanda Lima,Luminária,5,60.0,Utilidades
+896,2025-05-06,Fernanda Lima,Notebook Dell,2,3500.0,Eletrônicos
+897,24-10-2025,João Souza,Impressora HP,1,900.0,Eletrônicos
+898,2025/12/25,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+899,13-05-2025,Maria Silva,Luminária,3,60.0,Utilidades
+900,2025-12-08,,Caneta Azul,três,2.5,Papelaria
+901,07-04-2025,,Notebook Dell,2,3500.0,Eletrônicos
+902,2025/12/27,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+903,15-11-2025,,Mouse Gamer,3,200.0,Eletrônicos
+904,2025/01/08,,Notebook Dell,3,3500.0,Eletrônicos
+905,2025-03-05,Fernanda Lima,Notebook Dell,3,3500.0,Eletrônicos
+906,2025/05/11,João Souza,Mochila,1,150.0,Acessórios
+907,2025/12/14,Maria Silva,Monitor LG,5,1200.0,Eletrônicos
+908,2025-05-16,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+909,2025-04-26,João Souza,Mochila,2,150.0,Acessórios
+910,2025-09-14,Pedro Costa,Caderno,2,25.0,Papelaria
+911,2025/09/09,Maria Silva,Caderno,1,25.0,Papelaria
+912,23-04-2025,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+913,2025/02/15,,Caderno,5,25.0,Papelaria
+914,2025/07/16,Maria Silva,Notebook Dell,três,3500.0,Eletrônicos
+915,2025/05/27,Maria Silva,Garrafa Térmica,4,80.0,Utilidades
+916,2025/01/01,João Souza,Caneta Azul,1,2.5,Papelaria
+917,2025-09-14,Ana Pereira,Mouse Gamer,3,200.0,Eletrônicos
+918,2025/04/21,Fernanda Lima,Caneta Azul,5,2.5,Papelaria
+919,10-05-2025,Fernanda Lima,Mochila,3,150.0,Acessórios
+920,02-12-2025,Maria Silva,Luminária,4,60.0,Utilidades
+921,2025/10/22,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+922,2025-05-07,Pedro Costa,Notebook Dell,4,3500.0,Eletrônicos
+923,2025-07-24,João Souza,Caneta Azul,2,2.5,Papelaria
+924,09-04-2025,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+925,2025-11-06,Maria Silva,Mouse Gamer,5,200.0,
+926,2025/12/04,Fernanda Lima,Mochila,3,150.0,Acessórios
+927,2025/10/16,Maria Silva,Garrafa Térmica,5,80.0,
+928,2025/06/02,Pedro Costa,Caderno,5,25.0,Papelaria
+929,2025-09-17,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+930,15-10-2025,,Notebook Dell,1,3500.0,Eletrônicos
+931,24-05-2025,Maria Silva,Mochila,3,150.0,Acessórios
+932,12-06-2025,,Monitor LG,5,1200.0,Eletrônicos
+933,08-11-2025,Ana Pereira,Caneta Azul,3,2.5,Papelaria
+934,2025-02-06,Pedro Costa,Luminária,5,60.0,Utilidades
+935,2025/06/09,,Monitor LG,2,1200.0,Eletrônicos
+936,24-10-2025,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+937,2025-11-10,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+938,06-11-2025,,Monitor LG,2,1200.0,Eletrônicos
+939,2025/08/06,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+940,2025-10-21,Fernanda Lima,Caneta Azul,3,2.5,Papelaria
+941,2025/11/24,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+942,01-09-2025,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+943,03-05-2025,Maria Silva,Monitor LG,4,-1200.0,Eletrônicos
+944,2025-04-03,Maria Silva,Caderno,2,25.0,Papelaria
+945,2025/07/13,Ana Pereira,Caderno,2,25.0,
+946,18-10-2025,Pedro Costa,Luminária,1,60.0,Utilidades
+947,18-06-2025,Fernanda Lima,Luminária,5,60.0,Utilidades
+948,2025/10/15,Pedro Costa,Mochila,1,150.0,Acessórios
+949,14-04-2025,João Souza,Caderno,1,25.0,Papelaria
+950,21-11-2025,Fernanda Lima,Notebook Dell,2,3500.0,Eletrônicos
+951,2025-08-21,,iPhone 13,3,5500.0,Eletrônicos
+952,02-07-2025,João Souza,Mochila,4,150.0,Acessórios
+953,25-01-2025,João Souza,iPhone 13,1,5500.0,Eletrônicos
+954,2025/04/18,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+955,25-07-2025,,Garrafa Térmica,4,80.0,Utilidades
+956,2025/08/22,João Souza,iPhone 13,1,5500.0,Eletrônicos
+957,06-09-2025,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+958,2025-10-10,,Luminária,2,60.0,Utilidades
+959,2025-12-10,Pedro Costa,Monitor LG,2,1200.0,Eletrônicos
+960,2025-08-04,,Luminária,5,60.0,Utilidades
+961,2025/06/20,,Mouse Gamer,4,200.0,Eletrônicos
+962,2025-11-14,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+963,2025/11/22,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+964,21-09-2025,,Caderno,2,25.0,Papelaria
+965,2025-05-26,Fernanda Lima,Mouse Gamer,três,200.0,Eletrônicos
+966,2025/11/02,,Caderno,4,25.0,Papelaria
+967,2025-07-10,Pedro Costa,Luminária,4,60.0,Utilidades
+968,2025-03-10,João Souza,iPhone 13,2,5500.0,Eletrônicos
+969,11-01-2025,Maria Silva,Monitor LG,4,1200.0,Eletrônicos
+970,26-12-2025,,Caneta Azul,4,2.5,Papelaria
+971,16-09-2025,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+972,2025/05/27,Pedro Costa,Mochila,4,150.0,Acessórios
+973,2025/10/27,Fernanda Lima,Mochila,1,150.0,Acessórios
+974,05-08-2025,João Souza,Notebook Dell,1,3500.0,Eletrônicos
+975,2025/06/19,Fernanda Lima,Caderno,1,25.0,Papelaria
+976,2025-02-17,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+977,2025-02-02,Maria Silva,Caderno,5,25.0,Papelaria
+978,2025/01/25,Maria Silva,Luminária,4,-60.0,Utilidades
+979,24-07-2025,Maria Silva,Mochila,5,150.0,Acessórios
+980,2025/06/08,,iPhone 13,1,5500.0,Eletrônicos
+981,2025/09/26,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+982,2025/03/07,Pedro Costa,Garrafa Térmica,1,80.0,Utilidades
+983,23-01-2025,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+984,2025-01-24,Ana Pereira,Notebook Dell,4,3500.0,Eletrônicos
+985,2025-01-27,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+986,2025/02/22,João Souza,Mouse Gamer,4,200.0,Eletrônicos
+987,2025-11-07,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+988,2025-02-13,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+989,23-05-2025,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+990,23-10-2025,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+991,2025/02/23,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+992,2025-06-18,João Souza,Caderno,3,25.0,Papelaria
+993,2025/08/09,Maria Silva,Monitor LG,3,1200.0,Eletrônicos
+994,2025/04/09,Maria Silva,iPhone 13,1,5500.0,Eletrônicos
+995,21-11-2025,João Souza,Caderno,4,25.0,Papelaria
+996,2025/12/10,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+997,2025/10/09,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+998,2025/03/08,Maria Silva,Caderno,3,25.0,Papelaria
+999,07-08-2025,Fernanda Lima,Notebook Dell,2,3500.0,Eletrônicos
+1000,17-08-2025,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+1001,22-05-2025,Maria Silva,Luminária,1,60.0,Utilidades
+1002,2025/09/14,João Souza,iPhone 13,3,5500.0,Eletrônicos
+1003,13-12-2025,Fernanda Lima,Caneta Azul,3,-2.5,Papelaria
+1004,2025-07-23,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+1005,2025-06-26,Maria Silva,Monitor LG,3,1200.0,Eletrônicos
+1006,2025-12-17,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+1007,10-03-2025,,Impressora HP,1,900.0,Eletrônicos
+1008,26-01-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+1009,2025/12/16,João Souza,Monitor LG,5,1200.0,Eletrônicos
+1010,2025/08/01,Maria Silva,Caneta Azul,4,2.5,Papelaria
+1011,05-08-2025,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+1012,2025-02-10,,Caneta Azul,1,2.5,Papelaria
+1013,28-11-2025,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+1014,2025/11/17,Maria Silva,Caneta Azul,3,2.5,Papelaria
+1015,2025-10-02,,Luminária,1,60.0,Utilidades
+1016,2025-07-03,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+1017,09-06-2025,Pedro Costa,Monitor LG,2,1200.0,Eletrônicos
+1018,2025/04/23,João Souza,Luminária,4,60.0,Utilidades
+1019,2025-04-16,Ana Pereira,Notebook Dell,4,3500.0,Eletrônicos
+1020,02-03-2025,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1021,2025/05/06,João Souza,Caderno,2,25.0,Papelaria
+1022,2025-10-05,,Garrafa Térmica,2,80.0,Utilidades
+1023,2025-10-01,Fernanda Lima,Mochila,4,150.0,Acessórios
+1024,2025-08-15,Pedro Costa,Caderno,1,-25.0,Papelaria
+1025,2025-07-03,Maria Silva,Caderno,4,25.0,Papelaria
+1026,2025/04/03,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1027,2025/11/12,Maria Silva,Luminária,4,60.0,
+1028,2025-05-02,,Notebook Dell,3,3500.0,Eletrônicos
+1029,20-09-2025,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+1030,11-06-2025,Pedro Costa,Caneta Azul,2,2.5,Papelaria
+1031,2025-02-03,Fernanda Lima,Garrafa Térmica,5,80.0,Utilidades
+1032,2025-06-26,João Souza,Impressora HP,3,900.0,Eletrônicos
+1033,2025/08/27,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+1034,28-09-2025,João Souza,Impressora HP,1,900.0,Eletrônicos
+1035,12-12-2025,Maria Silva,Mochila,5,150.0,Acessórios
+1036,04-01-2025,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1037,2025-01-28,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+1038,2025-03-18,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+1039,07-12-2025,Fernanda Lima,Luminária,4,60.0,Utilidades
+1040,2025-02-07,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1041,2025/12/28,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+1042,09-02-2025,João Souza,Impressora HP,1,900.0,Eletrônicos
+1043,2025/12/14,Ana Pereira,Luminária,5,60.0,Utilidades
+1044,2025-12-06,Ana Pereira,Notebook Dell,2,3500.0,Eletrônicos
+1045,2025-01-26,Ana Pereira,Mochila,3,150.0,Acessórios
+1046,24-02-2025,Fernanda Lima,Monitor LG,3,1200.0,Eletrônicos
+1047,2025-06-16,Pedro Costa,Caderno,3,25.0,Papelaria
+1048,2025-03-10,Fernanda Lima,Mochila,4,150.0,Acessórios
+1049,2025-03-18,Ana Pereira,Notebook Dell,2,-3500.0,Eletrônicos
+1050,06-05-2025,Fernanda Lima,Caneta Azul,2,2.5,Papelaria
+1051,22-09-2025,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1052,2025/10/27,,iPhone 13,3,5500.0,Eletrônicos
+1053,10-05-2025,Pedro Costa,Caderno,4,25.0,Papelaria
+1054,02-02-2025,Fernanda Lima,Monitor LG,1,1200.0,Eletrônicos
+1055,2025-12-08,João Souza,Impressora HP,3,900.0,Eletrônicos
+1056,2025/07/02,João Souza,Impressora HP,4,900.0,Eletrônicos
+1057,2025-01-27,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+1058,2025-02-17,Ana Pereira,Monitor LG,3,1200.0,Eletrônicos
+1059,2025-04-28,,Luminária,2,60.0,Utilidades
+1060,2025/10/09,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1061,2025-08-17,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+1062,2025-04-27,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+1063,2025-03-20,Pedro Costa,Mochila,1,150.0,Acessórios
+1064,2025-09-03,,iPhone 13,3,5500.0,Eletrônicos
+1065,03-09-2025,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+1066,2025-05-14,João Souza,Caderno,1,25.0,Papelaria
+1067,2025/09/26,Maria Silva,Luminária,4,60.0,Utilidades
+1068,23-04-2025,Fernanda Lima,Caderno,2,25.0,Papelaria
+1069,2025-10-10,João Souza,Monitor LG,1,1200.0,Eletrônicos
+1070,2025-02-24,Fernanda Lima,Notebook Dell,4,3500.0,Eletrônicos
+1071,16-04-2025,,Caderno,5,25.0,Papelaria
+1072,05-06-2025,Ana Pereira,Monitor LG,3,1200.0,Eletrônicos
+1073,2025/07/04,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+1074,2025-09-01,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+1075,05-12-2025,Fernanda Lima,Luminária,4,60.0,Utilidades
+1076,2025/04/22,Maria Silva,Notebook Dell,3,3500.0,Eletrônicos
+1077,2025/01/03,João Souza,Mochila,5,150.0,Acessórios
+1078,08-08-2025,Ana Pereira,Impressora HP,1,900.0,Eletrônicos
+1079,10-06-2025,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1080,2025/07/11,Ana Pereira,Luminária,3,60.0,Utilidades
+1081,09-07-2025,João Souza,Impressora HP,4,900.0,Eletrônicos
+1082,26-09-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+1083,19-12-2025,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1084,26-06-2025,Fernanda Lima,Caneta Azul,3,2.5,Papelaria
+1085,10-11-2025,João Souza,Caderno,2,25.0,Papelaria
+1086,03-08-2025,Maria Silva,Mochila,1,150.0,Acessórios
+1087,2025-07-10,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+1088,02-10-2025,Fernanda Lima,Garrafa Térmica,4,80.0,
+1089,2025-08-18,,Notebook Dell,1,3500.0,Eletrônicos
+1090,24-04-2025,,Caderno,5,25.0,Papelaria
+1091,2025-08-17,Ana Pereira,Monitor LG,1,1200.0,Eletrônicos
+1092,08-11-2025,,Caderno,2,25.0,Papelaria
+1093,2025-04-14,Pedro Costa,Garrafa Térmica,4,80.0,Utilidades
+1094,2025-05-04,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+1095,2025-12-19,Ana Pereira,Caderno,3,25.0,Papelaria
+1096,2025/10/16,João Souza,iPhone 13,4,5500.0,Eletrônicos
+1097,2025-11-08,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+1098,2025-08-27,,Mochila,4,150.0,Acessórios
+1099,10-10-2025,Pedro Costa,Luminária,1,60.0,Utilidades
+1100,2025/12/03,João Souza,Mochila,3,150.0,Acessórios
+1101,2025-01-07,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+1102,25-12-2025,João Souza,Luminária,4,60.0,
+1103,2025/10/19,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+1104,2025/05/13,Ana Pereira,Monitor LG,4,1200.0,
+1105,2025-12-23,,Luminária,4,-60.0,Utilidades
+1106,2025/02/13,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+1107,07-01-2025,João Souza,Caneta Azul,1,2.5,Papelaria
+1108,18-01-2025,João Souza,Garrafa Térmica,1,80.0,Utilidades
+1109,17-11-2025,,Notebook Dell,4,3500.0,Eletrônicos
+1110,09-11-2025,João Souza,Impressora HP,2,900.0,Eletrônicos
+1111,2025-05-19,Ana Pereira,Impressora HP,1,900.0,Eletrônicos
+1112,26-02-2025,,Monitor LG,5,1200.0,Eletrônicos
+1113,2025-11-21,João Souza,Luminária,1,60.0,
+1114,2025-06-11,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1115,04-07-2025,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+1116,2025-06-27,João Souza,Garrafa Térmica,2,80.0,Utilidades
+1117,2025-05-03,,Luminária,3,60.0,Utilidades
+1118,2025/05/07,Maria Silva,Caneta Azul,3,2.5,Papelaria
+1119,16-01-2025,,Mochila,3,150.0,Acessórios
+1120,22-04-2025,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+1121,18-10-2025,Maria Silva,Garrafa Térmica,4,80.0,Utilidades
+1122,2025-06-03,Ana Pereira,iPhone 13,2,5500.0,Eletrônicos
+1123,14-07-2025,Maria Silva,Mouse Gamer,4,200.0,Eletrônicos
+1124,2025-10-01,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+1125,2025-03-03,Pedro Costa,Notebook Dell,2,3500.0,Eletrônicos
+1126,2025/01/19,Maria Silva,Impressora HP,2,900.0,Eletrônicos
+1127,2025-01-18,João Souza,Caneta Azul,2,2.5,Papelaria
+1128,17-03-2025,,Impressora HP,4,900.0,Eletrônicos
+1129,2025/09/21,Maria Silva,Impressora HP,três,900.0,Eletrônicos
+1130,17-04-2025,Fernanda Lima,Luminária,5,60.0,Utilidades
+1131,2025/02/10,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+1132,2025/09/13,João Souza,Notebook Dell,2,3500.0,Eletrônicos
+1133,10-08-2025,Ana Pereira,Mochila,2,150.0,Acessórios
+1134,19-03-2025,,Mochila,1,150.0,Acessórios
+1135,2025-06-25,Fernanda Lima,Mochila,3,-150.0,Acessórios
+1136,2025/06/13,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+1137,2025/12/13,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+1138,2025-12-11,,Mochila,1,150.0,Acessórios
+1139,08-11-2025,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1140,2025/06/23,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1141,2025/02/20,,Luminária,2,60.0,Utilidades
+1142,2025-09-10,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1143,2025-04-27,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+1144,2025-02-04,Pedro Costa,Caneta Azul,2,2.5,
+1145,02-12-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+1146,2025-04-14,João Souza,Garrafa Térmica,1,80.0,Utilidades
+1147,21-01-2025,Pedro Costa,Mochila,1,150.0,Acessórios
+1148,20-06-2025,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+1149,27-05-2025,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+1150,17-10-2025,João Souza,Caneta Azul,3,2.5,Papelaria
+1151,2025-05-15,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+1152,2025/07/08,Ana Pereira,Mouse Gamer,2,200.0,Eletrônicos
+1153,2025/05/18,Maria Silva,iPhone 13,4,5500.0,Eletrônicos
+1154,16-08-2025,João Souza,Luminária,três,60.0,Utilidades
+1155,2025-02-15,Pedro Costa,Luminária,1,60.0,Utilidades
+1156,2025-06-03,Ana Pereira,iPhone 13,5,5500.0,Eletrônicos
+1157,20-06-2025,João Souza,Caderno,1,25.0,Papelaria
+1158,2025/11/20,Pedro Costa,Mouse Gamer,3,200.0,Eletrônicos
+1159,2025/04/28,Fernanda Lima,Luminária,1,60.0,Utilidades
+1160,2025/10/05,Fernanda Lima,Monitor LG,2,1200.0,Eletrônicos
+1161,2025/08/26,João Souza,Monitor LG,1,1200.0,Eletrônicos
+1162,22-07-2025,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1163,2025-01-09,Maria Silva,Caderno,2,25.0,Papelaria
+1164,14-05-2025,Maria Silva,Garrafa Térmica,1,80.0,Utilidades
+1165,10-08-2025,João Souza,Impressora HP,1,900.0,Eletrônicos
+1166,2025/10/28,Fernanda Lima,Garrafa Térmica,4,80.0,Utilidades
+1167,2025-11-26,,Notebook Dell,3,3500.0,Eletrônicos
+1168,2025/02/11,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+1169,2025/03/02,Ana Pereira,Mochila,5,150.0,Acessórios
+1170,2025/06/12,,Mouse Gamer,4,200.0,Eletrônicos
+1171,28-10-2025,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+1172,17-09-2025,Ana Pereira,Notebook Dell,5,3500.0,Eletrônicos
+1173,03-02-2025,Pedro Costa,Mochila,3,150.0,Acessórios
+1174,2025-07-15,Ana Pereira,iPhone 13,4,5500.0,Eletrônicos
+1175,2025-04-23,,Caderno,1,25.0,Papelaria
+1176,01-03-2025,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+1177,2025/02/17,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+1178,2025/12/07,Ana Pereira,iPhone 13,5,5500.0,Eletrônicos
+1179,18-08-2025,Maria Silva,Caneta Azul,2,2.5,Papelaria
+1180,2025/07/05,João Souza,Monitor LG,3,1200.0,Eletrônicos
+1181,2025-01-06,Ana Pereira,Luminária,2,60.0,Utilidades
+1182,07-04-2025,Pedro Costa,Mochila,4,150.0,Acessórios
+1183,2025-07-13,Ana Pereira,Luminária,5,60.0,Utilidades
+1184,2025/01/27,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+1185,20-10-2025,João Souza,Monitor LG,3,1200.0,Eletrônicos
+1186,2025/08/26,Maria Silva,Mouse Gamer,4,200.0,Eletrônicos
+1187,2025/08/28,Fernanda Lima,Caderno,3,25.0,Papelaria
+1188,2025-02-18,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1189,2025-05-24,Ana Pereira,Caderno,2,25.0,Papelaria
+1190,01-12-2025,,Mouse Gamer,5,200.0,Eletrônicos
+1191,21-03-2025,Fernanda Lima,Notebook Dell,5,3500.0,Eletrônicos
+1192,2025/05/16,João Souza,Mochila,2,150.0,Acessórios
+1193,11-01-2025,Pedro Costa,Caneta Azul,4,2.5,Papelaria
+1194,2025-03-05,,Caderno,2,25.0,Papelaria
+1195,22-06-2025,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+1196,2025-07-25,João Souza,Mochila,1,150.0,Acessórios
+1197,2025-06-24,,Mochila,3,150.0,Acessórios
+1198,2025-09-07,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+1199,2025-06-25,Pedro Costa,Caneta Azul,3,2.5,Papelaria
+1200,2025/09/22,Maria Silva,Caderno,3,25.0,Papelaria
+1201,2025/06/02,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+1202,2025-01-19,Maria Silva,Mochila,2,150.0,Acessórios
+1203,2025-08-15,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+1204,2025-08-27,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+1205,2025/08/03,Fernanda Lima,Notebook Dell,1,3500.0,Eletrônicos
+1206,16-09-2025,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1207,2025/07/06,Pedro Costa,Impressora HP,1,900.0,Eletrônicos
+1208,27-02-2025,,Mouse Gamer,três,200.0,Eletrônicos
+1209,16-01-2025,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+1210,2025-06-06,Ana Pereira,iPhone 13,5,5500.0,Eletrônicos
+1211,2025-11-09,Pedro Costa,Mouse Gamer,4,200.0,
+1212,2025-02-05,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+1213,2025-04-16,,Mouse Gamer,3,200.0,Eletrônicos
+1214,2025-10-02,Maria Silva,Mouse Gamer,4,200.0,Eletrônicos
+1215,2025/04/11,Maria Silva,Monitor LG,3,1200.0,Eletrônicos
+1216,14-12-2025,Maria Silva,Mouse Gamer,4,200.0,Eletrônicos
+1217,02-05-2025,Maria Silva,Garrafa Térmica,2,80.0,Utilidades
+1218,15-06-2025,Fernanda Lima,Notebook Dell,1,3500.0,
+1219,2025/09/28,Maria Silva,Monitor LG,1,1200.0,Eletrônicos
+1220,2025-05-24,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+1221,2025/11/08,,Monitor LG,5,1200.0,Eletrônicos
+1222,2025/07/20,,Garrafa Térmica,2,80.0,Utilidades
+1223,2025/07/27,Fernanda Lima,Mochila,4,150.0,Acessórios
+1224,23-10-2025,Fernanda Lima,iPhone 13,3,5500.0,Eletrônicos
+1225,21-06-2025,João Souza,Mouse Gamer,4,200.0,Eletrônicos
+1226,2025/10/19,,iPhone 13,1,5500.0,Eletrônicos
+1227,2025/05/07,Maria Silva,Mouse Gamer,4,200.0,Eletrônicos
+1228,2025/03/19,Fernanda Lima,Luminária,3,60.0,Utilidades
+1229,25-01-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+1230,2025-05-03,Ana Pereira,iPhone 13,2,5500.0,Eletrônicos
+1231,17-03-2025,Maria Silva,Mochila,2,150.0,Acessórios
+1232,10-06-2025,Fernanda Lima,Caderno,3,25.0,Papelaria
+1233,2025/01/22,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+1234,2025/05/12,João Souza,Luminária,2,60.0,Utilidades
+1235,2025/02/24,Maria Silva,Mochila,1,150.0,Acessórios
+1236,2025-09-28,Maria Silva,Caneta Azul,3,2.5,Papelaria
+1237,2025-07-12,Fernanda Lima,Mochila,3,150.0,Acessórios
+1238,2025/09/24,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+1239,2025/01/16,,Caneta Azul,4,2.5,Papelaria
+1240,2025/01/17,Pedro Costa,Mochila,2,150.0,Acessórios
+1241,2025-03-18,Pedro Costa,Monitor LG,5,1200.0,
+1242,19-01-2025,Fernanda Lima,iPhone 13,2,5500.0,Eletrônicos
+1243,2025/05/04,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+1244,07-11-2025,Fernanda Lima,Monitor LG,3,1200.0,Eletrônicos
+1245,2025/11/18,Pedro Costa,Mouse Gamer,três,200.0,Eletrônicos
+1246,03-10-2025,Fernanda Lima,Notebook Dell,4,3500.0,Eletrônicos
+1247,2025/01/04,Pedro Costa,Monitor LG,1,1200.0,Eletrônicos
+1248,2025-06-18,João Souza,Caneta Azul,1,2.5,
+1249,2025/01/02,,Impressora HP,3,900.0,Eletrônicos
+1250,2025/05/15,Ana Pereira,Luminária,2,60.0,Utilidades
+1251,01-01-2025,Maria Silva,Impressora HP,5,900.0,Eletrônicos
+1252,2025-06-11,,Notebook Dell,2,3500.0,Eletrônicos
+1253,27-10-2025,,iPhone 13,4,5500.0,Eletrônicos
+1254,2025/08/02,Fernanda Lima,Mochila,2,150.0,Acessórios
+1255,2025-08-18,,Mouse Gamer,1,200.0,Eletrônicos
+1256,2025-11-05,Ana Pereira,Notebook Dell,5,3500.0,Eletrônicos
+1257,2025-10-16,Pedro Costa,Caderno,4,25.0,Papelaria
+1258,2025-07-10,,iPhone 13,4,5500.0,Eletrônicos
+1259,2025-02-13,Pedro Costa,Mochila,4,150.0,Acessórios
+1260,11-04-2025,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+1261,2025/06/25,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+1262,25-10-2025,,Caneta Azul,4,2.5,Papelaria
+1263,26-10-2025,,Notebook Dell,2,3500.0,Eletrônicos
+1264,2025-01-12,Fernanda Lima,Caneta Azul,5,2.5,Papelaria
+1265,2025/07/22,,iPhone 13,2,5500.0,Eletrônicos
+1266,2025/06/10,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+1267,2025/09/08,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+1268,2025/09/21,,Notebook Dell,5,3500.0,Eletrônicos
+1269,15-06-2025,,Luminária,1,60.0,Utilidades
+1270,2025-10-08,Fernanda Lima,Luminária,1,60.0,Utilidades
+1271,2025-06-27,Maria Silva,Impressora HP,2,900.0,Eletrônicos
+1272,2025/09/06,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+1273,2025-12-04,João Souza,Garrafa Térmica,1,80.0,Utilidades
+1274,2025-12-24,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+1275,25-10-2025,Maria Silva,Caneta Azul,1,2.5,Papelaria
+1276,2025/07/17,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1277,2025/01/24,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+1278,05-02-2025,Ana Pereira,Mouse Gamer,3,200.0,Eletrônicos
+1279,2025-05-23,,Notebook Dell,3,3500.0,Eletrônicos
+1280,2025/03/23,João Souza,iPhone 13,2,5500.0,Eletrônicos
+1281,2025-10-07,Pedro Costa,iPhone 13,4,5500.0,Eletrônicos
+1282,2025/01/24,,Mouse Gamer,três,200.0,Eletrônicos
+1283,11-05-2025,Ana Pereira,Notebook Dell,4,3500.0,Eletrônicos
+1284,13-02-2025,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1285,2025/03/23,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+1286,2025-01-14,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+1287,2025-10-28,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1288,2025/09/17,,Impressora HP,1,900.0,Eletrônicos
+1289,2025-10-05,,Luminária,2,60.0,Utilidades
+1290,12-06-2025,Maria Silva,Monitor LG,1,1200.0,Eletrônicos
+1291,2025-10-24,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1292,23-05-2025,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+1293,2025/03/02,Pedro Costa,Notebook Dell,3,3500.0,
+1294,13-11-2025,,Notebook Dell,3,3500.0,Eletrônicos
+1295,2025-03-27,João Souza,Monitor LG,3,1200.0,Eletrônicos
+1296,07-02-2025,Maria Silva,Monitor LG,3,1200.0,Eletrônicos
+1297,11-05-2025,Pedro Costa,Caderno,5,25.0,Papelaria
+1298,09-01-2025,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+1299,2025-01-28,Ana Pereira,Caderno,5,25.0,Papelaria
+1300,20-09-2025,João Souza,iPhone 13,1,5500.0,Eletrônicos
+1301,2025/01/12,João Souza,iPhone 13,5,5500.0,Eletrônicos
+1302,22-05-2025,Maria Silva,Caneta Azul,3,2.5,Papelaria
+1303,05-08-2025,Fernanda Lima,Monitor LG,4,1200.0,Eletrônicos
+1304,28-11-2025,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+1305,25-04-2025,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+1306,2025-11-14,João Souza,Mochila,3,150.0,Acessórios
+1307,13-06-2025,Pedro Costa,Luminária,5,60.0,Utilidades
+1308,2025/07/10,Pedro Costa,Luminária,1,60.0,Utilidades
+1309,2025-02-24,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+1310,2025-09-22,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+1311,2025-01-15,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+1312,2025-11-07,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+1313,2025-12-03,,Luminária,1,60.0,Utilidades
+1314,2025-10-03,Maria Silva,Luminária,3,60.0,Utilidades
+1315,2025/12/02,,Luminária,5,60.0,Utilidades
+1316,2025/01/07,João Souza,Caneta Azul,4,2.5,Papelaria
+1317,08-05-2025,Fernanda Lima,Mochila,1,150.0,Acessórios
+1318,26-08-2025,João Souza,iPhone 13,3,5500.0,Eletrônicos
+1319,2025/06/22,Ana Pereira,Caneta Azul,1,2.5,Papelaria
+1320,2025/05/03,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1321,2025/08/20,,Monitor LG,3,1200.0,Eletrônicos
+1322,2025/05/26,João Souza,Caderno,4,25.0,Papelaria
+1323,2025/03/10,João Souza,Caneta Azul,4,2.5,Papelaria
+1324,06-08-2025,,Garrafa Térmica,4,80.0,Utilidades
+1325,2025-04-17,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+1326,16-10-2025,João Souza,Mochila,1,150.0,Acessórios
+1327,27-05-2025,Fernanda Lima,Impressora HP,5,900.0,Eletrônicos
+1328,15-01-2025,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+1329,04-11-2025,João Souza,Caderno,5,25.0,Papelaria
+1330,2025/02/20,Maria Silva,Notebook Dell,3,3500.0,Eletrônicos
+1331,09-06-2025,Fernanda Lima,Notebook Dell,2,3500.0,Eletrônicos
+1332,16-03-2025,,Notebook Dell,2,3500.0,Eletrônicos
+1333,2025/09/19,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+1334,2025/11/14,Ana Pereira,Mochila,três,150.0,Acessórios
+1335,2025-03-01,João Souza,Caderno,3,25.0,Papelaria
+1336,28-03-2025,,Caderno,5,25.0,Papelaria
+1337,14-07-2025,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1338,2025/01/22,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+1339,25-02-2025,,Impressora HP,1,-900.0,Eletrônicos
+1340,2025-04-22,João Souza,Mochila,5,150.0,Acessórios
+1341,19-03-2025,Pedro Costa,Monitor LG,1,1200.0,Eletrônicos
+1342,2025/10/12,,Garrafa Térmica,2,80.0,Utilidades
+1343,2025-07-11,João Souza,Impressora HP,4,900.0,Eletrônicos
+1344,15-10-2025,,Caderno,2,25.0,Papelaria
+1345,2025-10-27,Pedro Costa,Luminária,3,60.0,Utilidades
+1346,2025/12/08,Maria Silva,Caneta Azul,1,2.5,Papelaria
+1347,02-10-2025,,Notebook Dell,4,3500.0,Eletrônicos
+1348,2025/07/09,Ana Pereira,Luminária,2,60.0,Utilidades
+1349,25-10-2025,João Souza,Mouse Gamer,4,200.0,Eletrônicos
+1350,2025-05-19,Pedro Costa,Caderno,1,25.0,Papelaria
+1351,2025-11-03,João Souza,Monitor LG,1,1200.0,Eletrônicos
+1352,2025/11/06,João Souza,Monitor LG,4,1200.0,Eletrônicos
+1353,2025-07-20,Pedro Costa,Caderno,5,25.0,Papelaria
+1354,09-09-2025,Maria Silva,Caderno,5,25.0,Papelaria
+1355,2025/10/18,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1356,10-07-2025,Ana Pereira,Luminária,5,60.0,Utilidades
+1357,07-10-2025,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+1358,2025/03/11,João Souza,Luminária,3,60.0,Utilidades
+1359,25-02-2025,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+1360,17-07-2025,Ana Pereira,iPhone 13,4,5500.0,Eletrônicos
+1361,11-04-2025,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+1362,2025-02-23,Ana Pereira,iPhone 13,2,5500.0,Eletrônicos
+1363,07-06-2025,Pedro Costa,Garrafa Térmica,2,80.0,
+1364,02-07-2025,Ana Pereira,Mochila,2,150.0,Acessórios
+1365,2025-01-26,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+1366,2025/01/10,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+1367,2025-08-08,Fernanda Lima,Notebook Dell,3,3500.0,Eletrônicos
+1368,07-03-2025,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+1369,2025/05/18,,Monitor LG,três,1200.0,Eletrônicos
+1370,2025/10/21,João Souza,Monitor LG,4,1200.0,Eletrônicos
+1371,2025-09-27,,Mochila,1,150.0,Acessórios
+1372,2025-07-21,Maria Silva,Mochila,três,150.0,Acessórios
+1373,2025-11-04,Ana Pereira,Notebook Dell,5,3500.0,Eletrônicos
+1374,16-08-2025,Fernanda Lima,Luminária,3,60.0,Utilidades
+1375,2025-07-07,Maria Silva,Luminária,5,60.0,Utilidades
+1376,18-12-2025,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+1377,2025/01/27,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1378,2025-04-24,Fernanda Lima,Notebook Dell,4,3500.0,Eletrônicos
+1379,2025/04/15,João Souza,Monitor LG,5,1200.0,Eletrônicos
+1380,2025-05-08,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+1381,12-06-2025,,Monitor LG,2,1200.0,Eletrônicos
+1382,2025-11-04,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+1383,14-03-2025,Fernanda Lima,Caderno,1,25.0,Papelaria
+1384,2025/12/23,João Souza,iPhone 13,2,5500.0,Eletrônicos
+1385,2025-01-23,João Souza,Caderno,5,25.0,Papelaria
+1386,16-12-2025,João Souza,Impressora HP,4,900.0,Eletrônicos
+1387,2025/07/11,Fernanda Lima,Notebook Dell,4,3500.0,Eletrônicos
+1388,04-06-2025,Ana Pereira,Impressora HP,4,900.0,Eletrônicos
+1389,2025/10/05,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+1390,05-02-2025,,Luminária,1,60.0,Utilidades
+1391,2025-09-07,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+1392,2025/03/07,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+1393,27-05-2025,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+1394,2025/12/27,João Souza,Monitor LG,4,1200.0,Eletrônicos
+1395,01-11-2025,,Mochila,3,150.0,Acessórios
+1396,19-06-2025,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1397,09-02-2025,Fernanda Lima,Mochila,2,150.0,Acessórios
+1398,2025-06-17,Fernanda Lima,Mouse Gamer,1,200.0,Eletrônicos
+1399,2025-07-16,Ana Pereira,iPhone 13,1,5500.0,Eletrônicos
+1400,2025-11-27,Pedro Costa,iPhone 13,4,5500.0,Eletrônicos
+1401,27-04-2025,Fernanda Lima,Caneta Azul,três,2.5,Papelaria
+1402,2025/06/13,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+1403,2025-03-23,Ana Pereira,Caderno,4,25.0,Papelaria
+1404,2025/04/01,Ana Pereira,Notebook Dell,5,3500.0,Eletrônicos
+1405,2025-08-11,,Mouse Gamer,2,200.0,Eletrônicos
+1406,24-03-2025,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+1407,2025-11-24,Maria Silva,Monitor LG,3,1200.0,Eletrônicos
+1408,09-02-2025,Maria Silva,Mochila,três,150.0,Acessórios
+1409,04-04-2025,João Souza,Mochila,três,150.0,Acessórios
+1410,2025/06/18,Pedro Costa,Impressora HP,três,900.0,Eletrônicos
+1411,06-06-2025,,Impressora HP,1,900.0,Eletrônicos
+1412,2025/08/04,Maria Silva,Luminária,1,60.0,Utilidades
+1413,04-05-2025,Fernanda Lima,Mochila,1,150.0,Acessórios
+1414,2025-09-07,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+1415,08-05-2025,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+1416,24-04-2025,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1417,2025/03/20,Maria Silva,Caneta Azul,2,2.5,Papelaria
+1418,2025/09/06,Pedro Costa,Notebook Dell,4,3500.0,Eletrônicos
+1419,2025-03-22,Pedro Costa,Caderno,2,25.0,Papelaria
+1420,2025/10/04,João Souza,Monitor LG,4,1200.0,Eletrônicos
+1421,2025-01-12,,Mochila,5,150.0,Acessórios
+1422,2025-02-02,,Caderno,2,25.0,Papelaria
+1423,28-09-2025,Ana Pereira,Caderno,1,25.0,Papelaria
+1424,23-04-2025,Ana Pereira,Caderno,3,25.0,Papelaria
+1425,2025/04/25,Pedro Costa,Luminária,5,60.0,Utilidades
+1426,2025-02-23,Ana Pereira,Mochila,5,150.0,Acessórios
+1427,2025/07/15,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1428,2025-12-19,Pedro Costa,Caderno,1,25.0,Papelaria
+1429,17-02-2025,Maria Silva,Mochila,1,150.0,Acessórios
+1430,2025/05/25,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+1431,2025/10/11,Fernanda Lima,iPhone 13,2,5500.0,Eletrônicos
+1432,2025-08-25,João Souza,Mouse Gamer,2,200.0,Eletrônicos
+1433,2025-07-23,Maria Silva,Impressora HP,4,900.0,Eletrônicos
+1434,03-03-2025,,Luminária,2,60.0,Utilidades
+1435,04-09-2025,Maria Silva,Luminária,3,60.0,Utilidades
+1436,2025/06/09,Pedro Costa,Caderno,1,25.0,Papelaria
+1437,2025/08/08,,Caderno,1,25.0,Papelaria
+1438,20-12-2025,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+1439,19-02-2025,Fernanda Lima,Caderno,1,25.0,Papelaria
+1440,2025-02-17,,Mochila,3,150.0,Acessórios
+1441,07-05-2025,Fernanda Lima,Notebook Dell,1,3500.0,Eletrônicos
+1442,2025-05-17,Fernanda Lima,Mochila,1,150.0,Acessórios
+1443,2025-06-16,,Caneta Azul,três,2.5,Papelaria
+1444,18-02-2025,Ana Pereira,Mochila,2,150.0,Acessórios
+1445,2025-07-19,João Souza,Caneta Azul,1,2.5,Papelaria
+1446,28-09-2025,Ana Pereira,Monitor LG,3,1200.0,Eletrônicos
+1447,2025-07-28,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+1448,18-08-2025,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+1449,2025-02-11,Maria Silva,Caderno,3,25.0,Papelaria
+1450,07-01-2025,João Souza,Monitor LG,3,1200.0,Eletrônicos
+1451,2025/01/21,Ana Pereira,Impressora HP,4,-900.0,Eletrônicos
+1452,2025-07-01,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+1453,2025-06-26,Maria Silva,iPhone 13,2,5500.0,
+1454,2025/08/16,Pedro Costa,Caderno,5,25.0,Papelaria
+1455,2025-10-11,João Souza,iPhone 13,3,5500.0,Eletrônicos
+1456,2025/09/28,,Caneta Azul,1,2.5,Papelaria
+1457,2025/04/26,,Mouse Gamer,2,200.0,Eletrônicos
+1458,2025-12-04,Fernanda Lima,Garrafa Térmica,4,80.0,Utilidades
+1459,2025-03-19,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+1460,2025-11-17,,iPhone 13,1,5500.0,Eletrônicos
+1461,2025/07/05,Ana Pereira,Caneta Azul,1,2.5,Papelaria
+1462,2025-12-01,,Garrafa Térmica,2,80.0,Utilidades
+1463,2025-05-15,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+1464,2025-05-20,Ana Pereira,Luminária,5,60.0,Utilidades
+1465,2025-11-03,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+1466,01-05-2025,João Souza,Luminária,2,60.0,Utilidades
+1467,16-09-2025,João Souza,Monitor LG,2,1200.0,Eletrônicos
+1468,2025/02/16,Pedro Costa,iPhone 13,4,5500.0,Eletrônicos
+1469,2025/12/03,João Souza,Caneta Azul,1,2.5,Papelaria
+1470,2025-09-06,Pedro Costa,Notebook Dell,4,3500.0,Eletrônicos
+1471,01-11-2025,Fernanda Lima,Luminária,2,60.0,Utilidades
+1472,2025-08-23,João Souza,Caneta Azul,4,2.5,Papelaria
+1473,2025-07-03,João Souza,Mochila,1,150.0,Acessórios
+1474,21-07-2025,João Souza,Caneta Azul,2,2.5,Papelaria
+1475,2025/12/14,Maria Silva,Luminária,3,-60.0,Utilidades
+1476,2025/09/09,João Souza,Caderno,2,25.0,Papelaria
+1477,07-11-2025,,Notebook Dell,1,3500.0,Eletrônicos
+1478,2025-05-18,João Souza,Garrafa Térmica,5,80.0,Utilidades
+1479,07-09-2025,Ana Pereira,Notebook Dell,3,3500.0,Eletrônicos
+1480,2025-11-14,Maria Silva,Luminária,4,-60.0,Utilidades
+1481,18-11-2025,Ana Pereira,Caneta Azul,3,2.5,Papelaria
+1482,23-07-2025,Maria Silva,Luminária,5,60.0,Utilidades
+1483,21-04-2025,Maria Silva,iPhone 13,4,5500.0,Eletrônicos
+1484,13-11-2025,Fernanda Lima,Caderno,2,25.0,Papelaria
+1485,25-04-2025,Ana Pereira,iPhone 13,1,5500.0,Eletrônicos
+1486,2025/02/18,,Impressora HP,4,900.0,Eletrônicos
+1487,2025-07-20,Ana Pereira,Caderno,2,25.0,Papelaria
+1488,2025/09/17,Fernanda Lima,Caneta Azul,2,2.5,Papelaria
+1489,21-06-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+1490,2025/02/23,Pedro Costa,Garrafa Térmica,4,80.0,Utilidades
+1491,2025-04-03,Maria Silva,Notebook Dell,2,3500.0,
+1492,2025-09-20,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+1493,2025-05-13,Ana Pereira,Impressora HP,4,900.0,Eletrônicos
+1494,16-09-2025,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+1495,06-07-2025,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+1496,10-12-2025,Pedro Costa,Mouse Gamer,5,200.0,Eletrônicos
+1497,2025/02/03,Fernanda Lima,Monitor LG,2,1200.0,Eletrônicos
+1498,2025-01-16,Pedro Costa,Luminária,3,60.0,Utilidades
+1499,2025/04/04,Fernanda Lima,Impressora HP,5,900.0,Eletrônicos
+1500,07-09-2025,Maria Silva,Mochila,3,150.0,Acessórios
+1501,2025-05-09,,Caneta Azul,3,2.5,Papelaria
+1502,2025/03/19,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1503,2025/03/27,Pedro Costa,Notebook Dell,5,3500.0,Eletrônicos
+1504,10-08-2025,,Garrafa Térmica,1,80.0,Utilidades
+1505,10-12-2025,Fernanda Lima,Mochila,5,150.0,Acessórios
+1506,2025-09-23,João Souza,Mochila,3,150.0,Acessórios
+1507,16-11-2025,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+1508,2025-10-11,João Souza,Monitor LG,2,1200.0,Eletrônicos
+1509,2025-12-06,Fernanda Lima,Garrafa Térmica,três,80.0,Utilidades
+1510,2025-02-19,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+1511,19-02-2025,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+1512,05-06-2025,Fernanda Lima,Luminária,2,60.0,Utilidades
+1513,2025/03/24,João Souza,iPhone 13,4,-5500.0,Eletrônicos
+1514,2025/10/22,João Souza,Caneta Azul,5,2.5,Papelaria
+1515,2025-03-15,João Souza,Caderno,4,25.0,Papelaria
+1516,04-10-2025,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+1517,2025/12/24,Maria Silva,Notebook Dell,4,3500.0,Eletrônicos
+1518,2025-05-13,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+1519,2025/09/14,,Caderno,1,25.0,Papelaria
+1520,2025-03-08,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+1521,2025/12/13,Pedro Costa,Mochila,3,150.0,Acessórios
+1522,2025-10-02,Pedro Costa,Monitor LG,2,1200.0,Eletrônicos
+1523,2025-01-12,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+1524,06-10-2025,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+1525,2025/07/27,,Luminária,3,60.0,Utilidades
+1526,2025-07-03,João Souza,iPhone 13,três,5500.0,Eletrônicos
+1527,2025-07-26,,Luminária,2,60.0,Utilidades
+1528,11-02-2025,João Souza,Impressora HP,3,900.0,Eletrônicos
+1529,2025/12/05,,Impressora HP,1,900.0,Eletrônicos
+1530,2025/10/11,Pedro Costa,Mochila,5,150.0,Acessórios
+1531,2025-03-11,Pedro Costa,Caderno,3,25.0,Papelaria
+1532,2025/09/01,Pedro Costa,Caderno,1,25.0,Papelaria
+1533,06-08-2025,Maria Silva,Caderno,3,25.0,Papelaria
+1534,16-06-2025,Maria Silva,Caneta Azul,1,2.5,Papelaria
+1535,17-02-2025,Ana Pereira,Caderno,4,25.0,Papelaria
+1536,20-01-2025,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+1537,22-02-2025,,Notebook Dell,4,3500.0,Eletrônicos
+1538,2025-10-07,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+1539,2025-08-25,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1540,2025-08-26,Pedro Costa,Mouse Gamer,4,200.0,Eletrônicos
+1541,02-08-2025,Ana Pereira,Luminária,2,60.0,Utilidades
+1542,16-11-2025,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+1543,2025/08/03,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+1544,03-05-2025,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1545,08-01-2025,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1546,2025/04/18,,Notebook Dell,5,3500.0,Eletrônicos
+1547,01-04-2025,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+1548,2025-02-05,,Mochila,1,150.0,Acessórios
+1549,2025-12-09,Pedro Costa,Mochila,3,150.0,Acessórios
+1550,2025-04-08,Pedro Costa,Caderno,5,25.0,Papelaria
+1551,2025/03/17,Maria Silva,Garrafa Térmica,3,80.0,Utilidades
+1552,2025-07-02,João Souza,Garrafa Térmica,3,80.0,Utilidades
+1553,2025-12-16,João Souza,Caneta Azul,3,2.5,Papelaria
+1554,2025/12/18,Ana Pereira,Caneta Azul,1,2.5,
+1555,2025/07/02,João Souza,Impressora HP,4,900.0,Eletrônicos
+1556,2025-05-07,Ana Pereira,Mouse Gamer,2,200.0,Eletrônicos
+1557,19-09-2025,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+1558,2025/12/24,,Notebook Dell,4,3500.0,Eletrônicos
+1559,13-11-2025,João Souza,iPhone 13,5,5500.0,Eletrônicos
+1560,2025-07-28,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1561,2025-04-27,Ana Pereira,Notebook Dell,3,-3500.0,Eletrônicos
+1562,2025-05-06,Pedro Costa,Mochila,1,150.0,Acessórios
+1563,2025-03-07,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+1564,2025/05/16,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+1565,2025/06/21,Fernanda Lima,Notebook Dell,4,3500.0,Eletrônicos
+1566,2025/12/24,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+1567,2025/01/25,Pedro Costa,Caderno,5,25.0,Papelaria
+1568,2025-03-04,Ana Pereira,Luminária,4,60.0,Utilidades
+1569,09-04-2025,Pedro Costa,Mochila,4,150.0,Acessórios
+1570,2025/10/15,João Souza,Luminária,5,60.0,Utilidades
+1571,27-07-2025,Fernanda Lima,Garrafa Térmica,2,80.0,Utilidades
+1572,27-07-2025,Maria Silva,Caneta Azul,1,2.5,Papelaria
+1573,2025-02-28,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+1574,2025-07-25,,Garrafa Térmica,4,80.0,Utilidades
+1575,2025-05-14,Fernanda Lima,Garrafa Térmica,2,80.0,Utilidades
+1576,2025-02-14,Fernanda Lima,Mochila,1,150.0,Acessórios
+1577,28-12-2025,,Garrafa Térmica,4,80.0,Utilidades
+1578,19-01-2025,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+1579,14-04-2025,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+1580,2025-01-03,Pedro Costa,Luminária,4,60.0,Utilidades
+1581,2025-10-05,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+1582,2025/12/02,Fernanda Lima,Notebook Dell,5,3500.0,Eletrônicos
+1583,2025-10-27,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+1584,13-02-2025,Fernanda Lima,Mouse Gamer,5,200.0,Eletrônicos
+1585,2025/05/13,Maria Silva,Luminária,4,60.0,Utilidades
+1586,2025/09/23,João Souza,Impressora HP,2,900.0,Eletrônicos
+1587,15-12-2025,Ana Pereira,Caderno,5,25.0,Papelaria
+1588,2025/09/14,Maria Silva,Monitor LG,2,1200.0,Eletrônicos
+1589,20-09-2025,Ana Pereira,Notebook Dell,3,3500.0,Eletrônicos
+1590,2025/06/26,Fernanda Lima,Garrafa Térmica,4,80.0,Utilidades
+1591,2025-03-13,Ana Pereira,Garrafa Térmica,5,80.0,Utilidades
+1592,2025/12/26,Ana Pereira,Mochila,1,150.0,Acessórios
+1593,01-01-2025,,Notebook Dell,4,3500.0,Eletrônicos
+1594,2025/04/02,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1595,2025-03-19,João Souza,Mochila,5,150.0,Acessórios
+1596,25-11-2025,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1597,07-06-2025,Fernanda Lima,iPhone 13,4,5500.0,Eletrônicos
+1598,2025-08-05,João Souza,Mouse Gamer,2,200.0,Eletrônicos
+1599,27-01-2025,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+1600,10-08-2025,Fernanda Lima,Caderno,2,25.0,Papelaria
+1601,03-10-2025,Ana Pereira,iPhone 13,1,5500.0,Eletrônicos
+1602,2025-04-16,Pedro Costa,Notebook Dell,1,3500.0,
+1603,2025-05-10,Maria Silva,Caderno,2,25.0,Papelaria
+1604,07-06-2025,Fernanda Lima,Mouse Gamer,1,200.0,Eletrônicos
+1605,2025/10/06,Pedro Costa,Notebook Dell,2,3500.0,Eletrônicos
+1606,2025-05-28,Fernanda Lima,Luminária,3,60.0,Utilidades
+1607,2025-01-17,Pedro Costa,Notebook Dell,2,3500.0,Eletrônicos
+1608,07-05-2025,,Impressora HP,2,900.0,
+1609,12-12-2025,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+1610,03-11-2025,Pedro Costa,Luminária,5,60.0,
+1611,2025/03/28,Fernanda Lima,Luminária,5,60.0,Utilidades
+1612,2025-08-26,Pedro Costa,Caneta Azul,1,2.5,Papelaria
+1613,2025/07/16,João Souza,iPhone 13,5,5500.0,Eletrônicos
+1614,2025-01-11,Ana Pereira,Mochila,2,150.0,Acessórios
+1615,2025/06/10,Pedro Costa,Mochila,5,150.0,Acessórios
+1616,26-10-2025,João Souza,Caneta Azul,5,2.5,Papelaria
+1617,2025/01/07,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+1618,2025-03-10,Maria Silva,Caderno,três,25.0,Papelaria
+1619,2025/12/16,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+1620,2025/12/27,Maria Silva,Monitor LG,4,1200.0,Eletrônicos
+1621,08-08-2025,,Luminária,3,60.0,Utilidades
+1622,2025-12-27,Pedro Costa,Mouse Gamer,5,200.0,Eletrônicos
+1623,05-05-2025,Pedro Costa,Impressora HP,1,900.0,Eletrônicos
+1624,19-12-2025,Ana Pereira,iPhone 13,1,5500.0,Eletrônicos
+1625,06-05-2025,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+1626,2025-07-05,Pedro Costa,Impressora HP,3,900.0,Eletrônicos
+1627,2025/08/05,João Souza,Garrafa Térmica,1,80.0,Utilidades
+1628,2025-10-27,Fernanda Lima,Caderno,2,25.0,Papelaria
+1629,27-09-2025,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+1630,03-07-2025,,Monitor LG,1,1200.0,Eletrônicos
+1631,2025-04-08,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1632,2025/05/08,João Souza,Mochila,5,150.0,Acessórios
+1633,12-05-2025,João Souza,Mouse Gamer,1,200.0,Eletrônicos
+1634,2025/04/27,,Garrafa Térmica,1,80.0,Utilidades
+1635,24-01-2025,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+1636,03-02-2025,Ana Pereira,Caneta Azul,4,2.5,Papelaria
+1637,04-10-2025,Fernanda Lima,Mouse Gamer,3,200.0,Eletrônicos
+1638,2025-07-10,,Monitor LG,4,1200.0,Eletrônicos
+1639,2025/06/13,Maria Silva,Impressora HP,3,900.0,Eletrônicos
+1640,2025-05-10,Fernanda Lima,Caderno,3,25.0,Papelaria
+1641,04-08-2025,João Souza,Caneta Azul,3,2.5,Papelaria
+1642,2025/03/06,Pedro Costa,Caderno,2,25.0,Papelaria
+1643,2025/04/15,,iPhone 13,4,5500.0,Eletrônicos
+1644,20-10-2025,Maria Silva,Monitor LG,5,1200.0,Eletrônicos
+1645,2025-04-18,Fernanda Lima,Caneta Azul,1,2.5,Papelaria
+1646,20-07-2025,Ana Pereira,Monitor LG,1,1200.0,Eletrônicos
+1647,2025/03/27,João Souza,iPhone 13,5,5500.0,Eletrônicos
+1648,2025/09/22,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+1649,2025/04/22,Maria Silva,Luminária,5,60.0,Utilidades
+1650,12-09-2025,João Souza,Caderno,4,25.0,Papelaria
+1651,2025-08-16,,Luminária,4,60.0,Utilidades
+1652,22-10-2025,Maria Silva,Luminária,5,60.0,Utilidades
+1653,25-03-2025,Ana Pereira,Impressora HP,4,900.0,Eletrônicos
+1654,2025/07/08,Maria Silva,Luminária,4,60.0,Utilidades
+1655,16-09-2025,Maria Silva,Luminária,4,60.0,Utilidades
+1656,2025-03-18,Fernanda Lima,Mochila,2,150.0,Acessórios
+1657,25-09-2025,Ana Pereira,Caneta Azul,1,2.5,Papelaria
+1658,2025/07/16,Pedro Costa,Mochila,3,150.0,Acessórios
+1659,2025/09/19,João Souza,iPhone 13,1,5500.0,Eletrônicos
+1660,2025-01-07,Ana Pereira,Mochila,5,150.0,Acessórios
+1661,2025/02/03,Pedro Costa,iPhone 13,três,5500.0,Eletrônicos
+1662,09-02-2025,Ana Pereira,Caderno,3,25.0,Papelaria
+1663,2025-08-26,,Monitor LG,3,1200.0,Eletrônicos
+1664,2025-01-05,Pedro Costa,Caneta Azul,4,2.5,Papelaria
+1665,03-07-2025,João Souza,Luminária,3,60.0,Utilidades
+1666,10-07-2025,Maria Silva,Luminária,5,60.0,Utilidades
+1667,2025-05-15,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+1668,23-07-2025,Pedro Costa,Luminária,2,60.0,Utilidades
+1669,13-02-2025,,Impressora HP,1,900.0,Eletrônicos
+1670,18-08-2025,,Caderno,2,25.0,Papelaria
+1671,01-11-2025,Fernanda Lima,Luminária,4,-60.0,Utilidades
+1672,2025/08/24,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1673,2025-11-15,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+1674,25-12-2025,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+1675,17-12-2025,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1676,2025/08/06,João Souza,Mochila,5,150.0,Acessórios
+1677,2025/02/19,João Souza,Mochila,2,150.0,Acessórios
+1678,2025-01-06,Fernanda Lima,Garrafa Térmica,3,80.0,Utilidades
+1679,15-10-2025,,Mouse Gamer,4,200.0,Eletrônicos
+1680,2025-09-19,Ana Pereira,Notebook Dell,2,3500.0,Eletrônicos
+1681,2025/03/26,,Caderno,2,25.0,Papelaria
+1682,2025-11-16,Fernanda Lima,Mouse Gamer,2,-200.0,Eletrônicos
+1683,28-10-2025,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1684,06-12-2025,,Caderno,5,25.0,Papelaria
+1685,2025-02-04,Ana Pereira,iPhone 13,2,5500.0,Eletrônicos
+1686,27-02-2025,Fernanda Lima,Impressora HP,1,900.0,Eletrônicos
+1687,18-07-2025,João Souza,Mouse Gamer,três,200.0,Eletrônicos
+1688,12-01-2025,Ana Pereira,Caneta Azul,2,2.5,Papelaria
+1689,01-04-2025,João Souza,Mouse Gamer,5,200.0,Eletrônicos
+1690,2025-12-15,,Mouse Gamer,3,200.0,Eletrônicos
+1691,10-06-2025,Pedro Costa,Mochila,5,150.0,Acessórios
+1692,01-09-2025,João Souza,Caneta Azul,2,2.5,Papelaria
+1693,20-11-2025,Pedro Costa,Luminária,2,-60.0,Utilidades
+1694,2025/12/14,,Mouse Gamer,1,200.0,Eletrônicos
+1695,06-03-2025,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+1696,2025-10-11,Pedro Costa,Caneta Azul,2,2.5,Papelaria
+1697,25-07-2025,,Luminária,3,60.0,Utilidades
+1698,2025-09-14,João Souza,Monitor LG,1,1200.0,Eletrônicos
+1699,2025-02-20,Fernanda Lima,iPhone 13,1,5500.0,Eletrônicos
+1700,2025-06-13,,Impressora HP,3,900.0,Eletrônicos
+1701,27-11-2025,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1702,2025/08/18,Ana Pereira,Caderno,1,25.0,Papelaria
+1703,16-08-2025,Fernanda Lima,Mochila,3,150.0,Acessórios
+1704,2025/09/04,João Souza,Monitor LG,2,1200.0,Eletrônicos
+1705,2025/09/04,Pedro Costa,Mouse Gamer,2,200.0,Eletrônicos
+1706,26-01-2025,Ana Pereira,Notebook Dell,2,3500.0,Eletrônicos
+1707,2025-04-01,Ana Pereira,Monitor LG,1,1200.0,Eletrônicos
+1708,2025/07/09,Maria Silva,Caneta Azul,1,2.5,Papelaria
+1709,2025-01-02,Fernanda Lima,Luminária,3,60.0,Utilidades
+1710,2025-07-23,João Souza,Caderno,4,25.0,
+1711,2025/01/25,Fernanda Lima,Impressora HP,3,900.0,Eletrônicos
+1712,2025-11-20,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+1713,24-04-2025,Maria Silva,Mouse Gamer,2,200.0,Eletrônicos
+1714,17-04-2025,,Monitor LG,5,1200.0,Eletrônicos
+1715,2025/05/12,,Notebook Dell,4,3500.0,Eletrônicos
+1716,2025/07/05,João Souza,Caderno,5,25.0,Papelaria
+1717,13-02-2025,,Notebook Dell,5,3500.0,Eletrônicos
+1718,2025-04-26,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+1719,2025/06/02,João Souza,Notebook Dell,3,3500.0,Eletrônicos
+1720,16-12-2025,Ana Pereira,Caderno,1,25.0,Papelaria
+1721,2025-11-18,Ana Pereira,Luminária,1,60.0,Utilidades
+1722,2025/07/06,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+1723,2025/07/17,,Notebook Dell,1,3500.0,Eletrônicos
+1724,2025/09/25,,Luminária,4,60.0,Utilidades
+1725,2025-08-15,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1726,2025/02/09,Fernanda Lima,Caneta Azul,3,2.5,Papelaria
+1727,2025/05/07,Maria Silva,Caderno,1,-25.0,Papelaria
+1728,2025-04-15,Maria Silva,Mochila,3,150.0,Acessórios
+1729,11-06-2025,,Monitor LG,1,1200.0,Eletrônicos
+1730,2025-11-19,Fernanda Lima,Caderno,5,25.0,Papelaria
+1731,2025-05-24,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+1732,2025-12-18,Ana Pereira,Mochila,5,150.0,Acessórios
+1733,09-09-2025,Fernanda Lima,Garrafa Térmica,5,80.0,Utilidades
+1734,2025-03-26,João Souza,iPhone 13,4,5500.0,Eletrônicos
+1735,2025/01/23,,Mouse Gamer,3,200.0,Eletrônicos
+1736,2025/06/19,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1737,19-05-2025,João Souza,Mochila,4,150.0,Acessórios
+1738,2025/01/06,Fernanda Lima,Monitor LG,3,1200.0,Eletrônicos
+1739,2025/09/16,Maria Silva,Caneta Azul,3,2.5,Papelaria
+1740,2025/07/01,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+1741,2025-10-08,Ana Pereira,Notebook Dell,5,3500.0,Eletrônicos
+1742,01-04-2025,Maria Silva,Monitor LG,2,1200.0,Eletrônicos
+1743,2025/02/10,Ana Pereira,iPhone 13,1,5500.0,Eletrônicos
+1744,2025-01-08,Ana Pereira,Luminária,3,60.0,Utilidades
+1745,2025/06/15,João Souza,Monitor LG,5,1200.0,Eletrônicos
+1746,2025-10-13,Ana Pereira,Mouse Gamer,4,200.0,Eletrônicos
+1747,07-05-2025,Maria Silva,Monitor LG,3,1200.0,Eletrônicos
+1748,21-05-2025,João Souza,Mochila,3,150.0,Acessórios
+1749,04-03-2025,,Impressora HP,5,900.0,Eletrônicos
+1750,2025/10/07,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+1751,2025/12/24,Ana Pereira,Mouse Gamer,5,200.0,Eletrônicos
+1752,2025/02/19,João Souza,Caneta Azul,1,2.5,Papelaria
+1753,2025/02/03,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1754,13-06-2025,Ana Pereira,Caderno,3,-25.0,Papelaria
+1755,12-06-2025,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+1756,2025-03-06,Ana Pereira,Caderno,3,25.0,Papelaria
+1757,22-10-2025,,Caneta Azul,3,-2.5,Papelaria
+1758,2025/01/13,Fernanda Lima,Notebook Dell,3,3500.0,Eletrônicos
+1759,2025-11-02,João Souza,Garrafa Térmica,3,80.0,Utilidades
+1760,06-06-2025,João Souza,Impressora HP,2,900.0,Eletrônicos
+1761,2025-06-17,João Souza,Caderno,4,25.0,Papelaria
+1762,2025-10-02,Maria Silva,Notebook Dell,3,3500.0,Eletrônicos
+1763,05-01-2025,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1764,2025/03/24,Ana Pereira,Notebook Dell,3,3500.0,Eletrônicos
+1765,2025-01-13,João Souza,Monitor LG,1,1200.0,Eletrônicos
+1766,04-06-2025,,Luminária,5,60.0,Utilidades
+1767,26-07-2025,João Souza,iPhone 13,1,5500.0,Eletrônicos
+1768,2025/07/13,,Luminária,2,60.0,Utilidades
+1769,24-07-2025,Ana Pereira,Monitor LG,4,1200.0,Eletrônicos
+1770,2025-07-08,João Souza,Garrafa Térmica,3,80.0,Utilidades
+1771,08-08-2025,Maria Silva,Luminária,2,60.0,Utilidades
+1772,11-12-2025,Maria Silva,Luminária,2,60.0,Utilidades
+1773,2025-12-21,João Souza,Notebook Dell,5,3500.0,Eletrônicos
+1774,2025/09/10,João Souza,Caderno,2,25.0,Papelaria
+1775,2025/12/23,Maria Silva,Garrafa Térmica,1,80.0,Utilidades
+1776,11-03-2025,,Luminária,3,-60.0,Utilidades
+1777,25-05-2025,Maria Silva,Mouse Gamer,4,200.0,Eletrônicos
+1778,01-07-2025,Pedro Costa,Caneta Azul,3,2.5,Papelaria
+1779,2025-09-11,Fernanda Lima,Caderno,1,25.0,Papelaria
+1780,23-03-2025,,Garrafa Térmica,4,80.0,Utilidades
+1781,2025-04-12,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+1782,08-06-2025,Fernanda Lima,Garrafa Térmica,1,80.0,Utilidades
+1783,26-05-2025,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+1784,2025-09-23,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1785,2025/05/12,Pedro Costa,iPhone 13,2,-5500.0,Eletrônicos
+1786,2025-09-20,Pedro Costa,Mochila,2,150.0,Acessórios
+1787,09-06-2025,Ana Pereira,Impressora HP,4,900.0,Eletrônicos
+1788,2025/06/24,João Souza,Mouse Gamer,1,-200.0,Eletrônicos
+1789,2025-05-22,,Luminária,2,60.0,Utilidades
+1790,2025/09/17,,Impressora HP,4,900.0,Eletrônicos
+1791,2025-09-20,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+1792,2025-07-09,Fernanda Lima,Mochila,1,-150.0,Acessórios
+1793,2025-04-17,,Impressora HP,1,900.0,Eletrônicos
+1794,2025-08-18,,Mochila,2,150.0,Acessórios
+1795,2025/01/16,Fernanda Lima,Caneta Azul,2,2.5,Papelaria
+1796,2025-11-24,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+1797,2025/09/25,Maria Silva,Notebook Dell,3,3500.0,Eletrônicos
+1798,10-07-2025,,Luminária,5,60.0,Utilidades
+1799,2025-10-14,,Mochila,3,150.0,Acessórios
+1800,2025/06/14,Pedro Costa,Notebook Dell,1,3500.0,Eletrônicos
+1801,28-03-2025,João Souza,Notebook Dell,4,3500.0,Eletrônicos
+1802,18-05-2025,Ana Pereira,Caderno,5,25.0,Papelaria
+1803,2025/12/19,Maria Silva,Garrafa Térmica,1,80.0,Utilidades
+1804,27-03-2025,Pedro Costa,Mouse Gamer,3,200.0,Eletrônicos
+1805,2025-01-20,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1806,2025-05-20,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+1807,2025-10-06,Ana Pereira,Monitor LG,5,1200.0,Eletrônicos
+1808,2025-09-23,Fernanda Lima,Notebook Dell,3,3500.0,Eletrônicos
+1809,2025/06/13,Ana Pereira,Luminária,2,60.0,Utilidades
+1810,2025-06-20,Ana Pereira,Mochila,2,150.0,Acessórios
+1811,2025-08-07,Fernanda Lima,iPhone 13,1,5500.0,Eletrônicos
+1812,2025/03/10,,Mouse Gamer,três,200.0,
+1813,2025-07-07,Fernanda Lima,Mochila,3,150.0,Acessórios
+1814,01-11-2025,Fernanda Lima,Caderno,1,25.0,
+1815,2025-11-08,Maria Silva,Luminária,1,60.0,Utilidades
+1816,21-11-2025,,Mochila,1,150.0,Acessórios
+1817,2025-08-26,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+1818,13-07-2025,Maria Silva,Monitor LG,4,1200.0,Eletrônicos
+1819,2025/03/09,Maria Silva,Monitor LG,5,1200.0,Eletrônicos
+1820,2025-01-13,,iPhone 13,1,5500.0,Eletrônicos
+1821,2025-09-07,,Impressora HP,2,900.0,Eletrônicos
+1822,2025-02-19,,Mouse Gamer,4,200.0,Eletrônicos
+1823,26-05-2025,Maria Silva,Caneta Azul,2,2.5,Papelaria
+1824,2025-10-20,,Caneta Azul,4,2.5,Papelaria
+1825,2025/06/16,Maria Silva,Mouse Gamer,1,200.0,Eletrônicos
+1826,2025-03-03,Maria Silva,Notebook Dell,1,3500.0,Eletrônicos
+1827,19-12-2025,,Mochila,3,150.0,Acessórios
+1828,2025/05/27,Pedro Costa,Mouse Gamer,1,200.0,Eletrônicos
+1829,2025-01-06,Maria Silva,iPhone 13,2,5500.0,Eletrônicos
+1830,2025-12-17,Ana Pereira,Notebook Dell,1,3500.0,Eletrônicos
+1831,2025-05-17,Pedro Costa,iPhone 13,2,5500.0,Eletrônicos
+1832,20-01-2025,,Mochila,2,150.0,Acessórios
+1833,2025-04-14,Fernanda Lima,Mouse Gamer,1,200.0,Eletrônicos
+1834,2025-05-27,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1835,01-03-2025,Pedro Costa,Impressora HP,2,900.0,Eletrônicos
+1836,10-05-2025,Pedro Costa,Impressora HP,1,900.0,Eletrônicos
+1837,2025-07-26,João Souza,Caneta Azul,1,2.5,Papelaria
+1838,24-05-2025,Fernanda Lima,Caderno,3,25.0,Papelaria
+1839,27-09-2025,,Luminária,4,60.0,
+1840,04-11-2025,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+1841,2025/01/12,João Souza,Monitor LG,4,1200.0,Eletrônicos
+1842,2025/01/25,Ana Pereira,Luminária,3,60.0,Utilidades
+1843,06-12-2025,Fernanda Lima,Monitor LG,5,1200.0,Eletrônicos
+1844,18-08-2025,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1845,21-10-2025,Maria Silva,Impressora HP,1,900.0,Eletrônicos
+1846,2025/11/08,Maria Silva,Impressora HP,5,900.0,Eletrônicos
+1847,09-03-2025,Ana Pereira,Caderno,3,-25.0,Papelaria
+1848,05-06-2025,,Caderno,2,25.0,Papelaria
+1849,2025-03-26,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1850,2025/05/23,Maria Silva,Monitor LG,4,1200.0,Eletrônicos
+1851,27-11-2025,Maria Silva,Garrafa Térmica,5,80.0,Utilidades
+1852,2025/08/03,Maria Silva,Garrafa Térmica,2,80.0,Utilidades
+1853,28-05-2025,,Notebook Dell,5,3500.0,Eletrônicos
+1854,2025-12-02,João Souza,Luminária,3,60.0,Utilidades
+1855,25-08-2025,Maria Silva,Luminária,2,60.0,Utilidades
+1856,2025-03-23,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1857,16-05-2025,,Caderno,3,25.0,Papelaria
+1858,14-05-2025,Pedro Costa,Impressora HP,5,900.0,Eletrônicos
+1859,2025/03/13,,Garrafa Térmica,1,80.0,Utilidades
+1860,17-10-2025,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+1861,2025/05/02,Pedro Costa,Monitor LG,2,1200.0,Eletrônicos
+1862,2025/02/12,Ana Pereira,Mochila,1,150.0,Acessórios
+1863,15-06-2025,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+1864,2025/03/26,Maria Silva,iPhone 13,3,5500.0,Eletrônicos
+1865,07-02-2025,Maria Silva,Garrafa Térmica,1,80.0,Utilidades
+1866,11-02-2025,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+1867,2025-10-05,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1868,2025/10/07,Maria Silva,Luminária,2,60.0,Utilidades
+1869,2025/05/22,Pedro Costa,iPhone 13,1,5500.0,Eletrônicos
+1870,2025-10-04,Maria Silva,Caderno,4,25.0,Papelaria
+1871,06-10-2025,Pedro Costa,Caderno,2,-25.0,Papelaria
+1872,2025/10/06,Fernanda Lima,Caneta Azul,1,2.5,Papelaria
+1873,2025/07/28,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1874,21-02-2025,,Notebook Dell,2,3500.0,Eletrônicos
+1875,2025-12-17,Fernanda Lima,Luminária,2,60.0,Utilidades
+1876,2025/10/02,Ana Pereira,Garrafa Térmica,4,80.0,Utilidades
+1877,2025/09/16,Fernanda Lima,Impressora HP,5,900.0,Eletrônicos
+1878,2025/12/08,João Souza,Impressora HP,3,900.0,Eletrônicos
+1879,2025-04-18,Fernanda Lima,Garrafa Térmica,5,80.0,Utilidades
+1880,2025/02/07,Pedro Costa,Mochila,3,150.0,Acessórios
+1881,03-12-2025,,Garrafa Térmica,três,-80.0,Utilidades
+1882,11-12-2025,,Luminária,4,60.0,Utilidades
+1883,08-05-2025,João Souza,Caneta Azul,3,2.5,Papelaria
+1884,09-10-2025,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+1885,09-08-2025,,Mochila,2,150.0,Acessórios
+1886,2025/09/25,Fernanda Lima,Caneta Azul,5,2.5,Papelaria
+1887,12-03-2025,Fernanda Lima,Monitor LG,1,1200.0,Eletrônicos
+1888,2025/08/22,João Souza,Garrafa Térmica,2,80.0,Utilidades
+1889,2025-02-28,Ana Pereira,Caneta Azul,1,2.5,Papelaria
+1890,2025/06/21,Ana Pereira,Garrafa Térmica,3,80.0,Utilidades
+1891,08-09-2025,Pedro Costa,Garrafa Térmica,2,80.0,Utilidades
+1892,15-03-2025,Fernanda Lima,Mouse Gamer,4,200.0,Eletrônicos
+1893,2025-10-17,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+1894,2025/05/12,,Caneta Azul,5,2.5,Papelaria
+1895,02-12-2025,Maria Silva,iPhone 13,5,5500.0,Eletrônicos
+1896,2025/10/24,Maria Silva,Notebook Dell,2,3500.0,Eletrônicos
+1897,23-03-2025,Maria Silva,iPhone 13,5,5500.0,Eletrônicos
+1898,2025-01-24,Fernanda Lima,Garrafa Térmica,2,80.0,Utilidades
+1899,2025/10/06,Ana Pereira,Caderno,4,25.0,Papelaria
+1900,2025-06-23,,Garrafa Térmica,1,80.0,Utilidades
+1901,2025/08/24,Pedro Costa,Garrafa Térmica,1,80.0,Utilidades
+1902,2025/10/16,João Souza,iPhone 13,5,5500.0,Eletrônicos
+1903,2025-02-15,Fernanda Lima,Garrafa Térmica,4,80.0,Utilidades
+1904,2025/09/21,Ana Pereira,Mochila,2,150.0,Acessórios
+1905,2025/09/17,Pedro Costa,Caneta Azul,1,2.5,
+1906,2025/12/14,Pedro Costa,Garrafa Térmica,1,80.0,Utilidades
+1907,2025-12-26,Pedro Costa,Luminária,3,60.0,Utilidades
+1908,04-12-2025,João Souza,Mochila,4,150.0,Acessórios
+1909,07-03-2025,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+1910,2025-10-03,Fernanda Lima,Caderno,1,25.0,Papelaria
+1911,15-11-2025,Ana Pereira,Impressora HP,5,900.0,Eletrônicos
+1912,2025-09-19,,Notebook Dell,4,3500.0,Eletrônicos
+1913,12-12-2025,Ana Pereira,Caneta Azul,5,2.5,Papelaria
+1914,2025/08/10,Fernanda Lima,iPhone 13,5,5500.0,Eletrônicos
+1915,2025-05-02,Pedro Costa,Monitor LG,4,1200.0,Eletrônicos
+1916,2025/04/10,Fernanda Lima,Luminária,4,60.0,Utilidades
+1917,2025/10/12,Fernanda Lima,Mouse Gamer,1,200.0,Eletrônicos
+1918,2025-10-27,João Souza,Garrafa Térmica,4,-80.0,
+1919,2025-10-17,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+1920,2025-06-22,Pedro Costa,Caderno,3,25.0,Papelaria
+1921,19-11-2025,Fernanda Lima,Luminária,4,60.0,Utilidades
+1922,2025-05-25,João Souza,Mouse Gamer,três,200.0,Eletrônicos
+1923,2025/09/01,João Souza,Mouse Gamer,3,200.0,Eletrônicos
+1924,2025/02/26,Fernanda Lima,Luminária,5,60.0,Utilidades
+1925,2025-02-03,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+1926,2025-02-13,Pedro Costa,Garrafa Térmica,1,80.0,Utilidades
+1927,01-12-2025,Ana Pereira,iPhone 13,3,5500.0,Eletrônicos
+1928,2025-11-26,Ana Pereira,Notebook Dell,4,3500.0,Eletrônicos
+1929,04-04-2025,Pedro Costa,Caderno,3,25.0,Papelaria
+1930,17-05-2025,João Souza,Caneta Azul,4,2.5,Papelaria
+1931,2025/04/03,Ana Pereira,Impressora HP,2,900.0,Eletrônicos
+1932,2025-04-19,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1933,2025/05/25,Fernanda Lima,Garrafa Térmica,1,80.0,
+1934,27-08-2025,Ana Pereira,Luminária,três,60.0,Utilidades
+1935,28-05-2025,,iPhone 13,2,5500.0,Eletrônicos
+1936,2025-01-27,Maria Silva,Caneta Azul,4,2.5,Papelaria
+1937,2025/08/22,Fernanda Lima,Impressora HP,4,900.0,Eletrônicos
+1938,2025-08-28,,Monitor LG,1,1200.0,Eletrônicos
+1939,2025-11-21,Ana Pereira,Garrafa Térmica,2,80.0,Utilidades
+1940,2025-09-16,Maria Silva,Caneta Azul,5,2.5,Papelaria
+1941,24-03-2025,João Souza,iPhone 13,1,5500.0,Eletrônicos
+1942,2025/08/13,Pedro Costa,Monitor LG,5,1200.0,Eletrônicos
+1943,18-02-2025,Fernanda Lima,Caneta Azul,1,2.5,Papelaria
+1944,2025-01-12,,Garrafa Térmica,1,80.0,Utilidades
+1945,2025/12/09,Fernanda Lima,Impressora HP,2,900.0,Eletrônicos
+1946,06-11-2025,Maria Silva,Mochila,5,150.0,Acessórios
+1947,2025/05/05,João Souza,Mochila,5,150.0,Acessórios
+1948,2025/07/03,Pedro Costa,Notebook Dell,3,3500.0,Eletrônicos
+1949,2025/10/25,João Souza,Monitor LG,2,1200.0,Eletrônicos
+1950,2025-08-28,,Mouse Gamer,3,200.0,Eletrônicos
+1951,2025/06/07,Maria Silva,Mouse Gamer,5,200.0,Eletrônicos
+1952,01-02-2025,Pedro Costa,Luminária,1,60.0,Utilidades
+1953,21-12-2025,Fernanda Lima,Caderno,5,25.0,Papelaria
+1954,2025/10/28,Maria Silva,Caderno,2,25.0,Papelaria
+1955,07-07-2025,Pedro Costa,Monitor LG,1,1200.0,Eletrônicos
+1956,2025-10-21,,Caderno,4,25.0,Papelaria
+1957,2025/10/09,Maria Silva,Caneta Azul,2,2.5,Papelaria
+1958,2025-12-03,Fernanda Lima,iPhone 13,1,5500.0,Eletrônicos
+1959,2025-07-21,,Notebook Dell,5,3500.0,Eletrônicos
+1960,2025-04-06,,iPhone 13,4,5500.0,Eletrônicos
+1961,26-03-2025,Ana Pereira,Impressora HP,3,900.0,Eletrônicos
+1962,2025/04/15,,iPhone 13,3,5500.0,Eletrônicos
+1963,16-12-2025,Maria Silva,iPhone 13,1,5500.0,Eletrônicos
+1964,14-09-2025,Ana Pereira,Monitor LG,2,-1200.0,Eletrônicos
+1965,2025-06-10,Fernanda Lima,Luminária,1,60.0,Utilidades
+1966,2025/10/15,Fernanda Lima,Caderno,4,25.0,Papelaria
+1967,22-01-2025,Ana Pereira,Mouse Gamer,1,200.0,Eletrônicos
+1968,23-09-2025,João Souza,Caneta Azul,5,2.5,Papelaria
+1969,10-07-2025,,Caneta Azul,1,2.5,Papelaria
+1970,2025/11/21,,Impressora HP,3,900.0,Eletrônicos
+1971,04-08-2025,,Caderno,5,25.0,Papelaria
+1972,04-04-2025,Pedro Costa,Caneta Azul,3,2.5,Papelaria
+1973,2025/10/12,Fernanda Lima,Luminária,2,60.0,Utilidades
+1974,2025/02/21,João Souza,Monitor LG,3,1200.0,Eletrônicos
+1975,17-10-2025,,Mouse Gamer,2,200.0,Eletrônicos
+1976,2025-11-01,,iPhone 13,4,5500.0,Eletrônicos
+1977,2025/09/20,,Caderno,4,25.0,Papelaria
+1978,2025/09/09,Fernanda Lima,Monitor LG,1,1200.0,Eletrônicos
+1979,2025-01-23,Pedro Costa,Mouse Gamer,3,-200.0,Eletrônicos
+1980,2025-01-08,Maria Silva,Garrafa Térmica,1,80.0,Utilidades
+1981,2025-12-25,Ana Pereira,Monitor LG,1,1200.0,Eletrônicos
+1982,04-03-2025,Fernanda Lima,Caderno,3,25.0,Papelaria
+1983,01-04-2025,Ana Pereira,iPhone 13,4,5500.0,Eletrônicos
+1984,2025/07/08,Ana Pereira,Mouse Gamer,3,200.0,Eletrônicos
+1985,20-03-2025,Pedro Costa,Luminária,3,60.0,Utilidades
+1986,2025/02/06,Maria Silva,Notebook Dell,5,3500.0,Eletrônicos
+1987,2025-08-27,Pedro Costa,Garrafa Térmica,5,80.0,Utilidades
+1988,10-09-2025,Pedro Costa,iPhone 13,5,5500.0,Eletrônicos
+1989,2025/07/24,João Souza,Caneta Azul,3,2.5,Papelaria
+1990,15-05-2025,Ana Pereira,Garrafa Térmica,1,80.0,Utilidades
+1991,06-03-2025,Pedro Costa,Caderno,3,25.0,Papelaria
+1992,2025-04-05,Pedro Costa,Impressora HP,4,900.0,Eletrônicos
+1993,2025-04-28,Pedro Costa,Garrafa Térmica,3,80.0,Utilidades
+1994,28-12-2025,João Souza,Caderno,4,25.0,Papelaria
+1995,2025/04/19,Maria Silva,Monitor LG,2,1200.0,Eletrônicos
+1996,2025-07-20,Pedro Costa,iPhone 13,3,5500.0,Eletrônicos
+1997,2025/11/14,Maria Silva,Luminária,3,60.0,Utilidades
+1998,2025/11/24,Maria Silva,Luminária,4,60.0,Utilidades
+1999,2025/02/08,Fernanda Lima,Caneta Azul,4,2.5,Papelaria
+2000,2025/12/27,Ana Pereira,iPhone 13,três,5500.0,Eletrônicos
